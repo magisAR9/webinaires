@@ -1,17 +1,31 @@
-# Webinares
+# Webinaires Carte blanche
 
+Un Webinaire mensuel « autour des cartographies contemporaines et des géovisualisations » est organisé par l'AR9 du GdRMagis, à partir de novembre 2022. 
 
-Le Webinar 3D « autour de la 3D » est co-organisé par le GDR CNRS MAGIS et le GDR CNRS IG-RV.
+## Format
 
-Il s'agit d'un groupe de travail sur la 3D et ses usages pour le territoire. L'approche peut ainsi être thématique, mais aussi axée sur des problématiques de modélisation, rendu et visualisation.
+**Durée :**
+30mn de présentation en mode visioconférence + 30 mn d'échanges et de discussions. </br>
+La présentation a lieu de préférence en français. </br>
+Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Christine, Boris, Etienne, Françoise ou Nicolas)
 
-Le Webinar 3D est un lieu d'échange sur les données géospatiales multidimensionnelles. Les présentations portent sur des recherches en cours (pas forcément abouties), des outils liés à l’étude ou à la représentation de données ou des cas d'utilisation où la donnée 3D a été mobilisée.
+**Sujet :**
+Carte Blanche (on a bien dit) sur les cartographies et géovisualisations de données. L'entrée peut être sur les techniques, sur les technologies, sur les méthodes
 
-Au cours de chaque session, il s'agit d'une prise de parole de 30 minutes (maximum) suivie de 30 minutes de discussions et échanges, partie importante de ce groupe de travail.
+**Qui ?** </br>
+Toutes et tous, vous peuvez participer au séminaire, que vous soyez dans le monde académique ou non, dans le secteur privé ou non, en Sciences humaines et sociales ou en Sciences pour l'Ingénieur, etc.
 
-Le Webinar 3D a pour vocation à se répéter tous les mois (1er jeudi du mois) sur le temps de la pause méridienne (12h30- 13H30)
+## Intervenir dans le webinaire
+Si vous êtes intéressé.e.s par présenter votre travail cartographique dans le cadre de l'AR CartoGeoViz, proposez-nous une issue, ou bien contactez le collectif de l'AR9 :[@ collectif de l'AR](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr).
 
-Si vous êtes intéressé.e.s pour faire une présentation, en anglais ou en français, contactez : Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.christophe@ign.fr) ou Gilles Gesquière (gilles.gesquiere@liris.cnrs.fr)
+**Informations :** </br>
+Envoyez nous : </br>
+- un titre ;
+- une image ;
+- un résumé de 3-4 lignes ;
+- vos noms, prénoms @ et affiliations.
 
+## Calendrier des Webinaires
+_Le calendrier sera complété au fil de l'eau_
 
-## Calendrier des Webinaire
+Novembre 2022 : Colin MICOL KEROUANTON (UMR PACTE) / Animation Boris.
