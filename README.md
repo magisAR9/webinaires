@@ -1,4 +1,4 @@
-# Webinaires Carte blanche
+# Webinaires "Carte blanche"
 
 Un Webinaire mensuel « autour des cartographies contemporaines et des géovisualisations » est organisé par l'AR9 du GdRMagis, à partir de novembre 2022. 
 
