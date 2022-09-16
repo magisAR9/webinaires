@@ -29,4 +29,5 @@ Ces informations sont à nous envoyer par email, elles seront ensuite mises en l
 ## Calendrier des Webinaires
 _Le calendrier sera complété au fil de l'eau_
 
-Novembre 2022 : Colin MICOL KEROUANTON (UMR PACTE) / Animation Boris.
+Novembre 2022 : A venir
+Décembre 2022 : A venir
