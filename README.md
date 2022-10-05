@@ -29,5 +29,7 @@ Ces informations sont à nous envoyer par email, elles seront ensuite mises en l
 ## Calendrier des Webinaires
 _Le calendrier sera complété au fil de l'eau_
 
-* 8 novmebre : KEROUANTON Colin 	 				
-* 5 décembre 2022 :	RIVIERE Philippe
+* 8 novembre 2022 : KEROUANTON Colin, IR CNRS (animation Boris)	  	 				
+* 5 décembre 2022 :	RIVIERE Philippe, [@fil](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas)
+* 6 décembre 2023 : collectif AR9magis, [JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes) (animation Boris)
+* 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
