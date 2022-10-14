@@ -13,6 +13,10 @@ _Le calendrier sera complété au fil de l'eau_
 
 * 8 novembre 2022 : KEROUANTON Colin, IR CNRS (animation Boris)	  	 
 
+![alt text](https://raw.githubusercontent.com/magisAR9/.github/main/profile/AR9visuelok.JPG)
+
+
+
 https://cnrs.zoom.us/j/97232935796?pwd=UnhxWFlBKytoWmtFampWcVpkZGlDQT09
 
 ID de réunion : 972 3293 5796
