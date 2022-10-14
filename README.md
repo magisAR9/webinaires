@@ -1,14 +1,14 @@
-# Webinaires "Carte blanche"
+:globe_with_meridians: # Webinaires "Carte blanche" :globe_with_meridians:
 
 Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à **l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données**. L'objectif de ces temps d'échange est à la fois de permettre des **présentations** de travaux, de réalisations ou d'expérimentations cartographiques diversifiées et **des échnages collectifs** sur les leviers et les enjeux actuels de la représentation de données spatiales tant d'un point de vue conceptuel, opérationnel, méthodologique que technique.
 
-:information_desk_person:## Format
+:information_desk_person: ## Format
 
 **Durée :**
 Á partir de 12h30, pour 30mn de présentation en mode visioconférence + 30 mn d'échanges et de discussions. </br>
 Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Christine, Boris, Etienne, Françoise, Nicolas ou Robin).
 
-:calendar:## Calendrier des Webinaires
+:calendar: ## Calendrier des Webinaires
 
 :arrow_forward: **Mardi 8 novembre (12h30-13h30): KEROUANTON Colin, IE, PACTE** (https://colinkerouanton.netlify.app/)
 
