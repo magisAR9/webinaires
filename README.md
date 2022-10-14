@@ -9,9 +9,8 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Christine, Boris, Etienne, Françoise, Nicolas ou Robin).
 
 ## Calendrier des Webinaires
-_Le calendrier sera complété au fil de l'eau_
 
-**8 novembre 2022 : KEROUANTON Colin, IE PACTE**
+**8 novembre 2022 (12h30-13h30): KEROUANTON Colin, IE, PACTE**
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_kerouanton.png)
 
@@ -22,6 +21,7 @@ https://cnrs.zoom.us/j/97232935796?pwd=UnhxWFlBKytoWmtFampWcVpkZGlDQT09
 ID de réunion : 972 3293 5796
 Code secret : 6J92Ww
 
+---------------------------------------------------------------------------------------------------------------------------------
 * 5 décembre 2022 :	RIVIERE Philippe, [@fil](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas)
 * 6 décembre 2023 : collectif AR9magis, [JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes) (animation Boris)
 * 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
