@@ -13,7 +13,7 @@ _Le calendrier sera complété au fil de l'eau_
 
 * 8 novembre 2022 : KEROUANTON Colin, IR CNRS (animation Boris)	  	 
 
-![alt text](https://raw.githubusercontent.com/magisAR9/.github/main/profile/AR9visuelok.JPG)
+![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_kerouanton.png)
 
 
 
