@@ -10,7 +10,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Calendrier des Webinaires :calendar:
 
-:arrow_forward: **Mardi 8 novembre (12h30-13h30): KEROUANTON Colin, IE, PACTE** (https://colinkerouanton.netlify.app/)
+:arrow_forward: **Mardi 8 novembre (12h30-13h30): KEROUANTON Colin, IR, PACTE** (https://colinkerouanton.netlify.app/)
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_kerouanton.png)
 
