@@ -14,7 +14,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_kerouanton.png)
 
-À partir de données de mobilité GPS récoltées et traitées par un collectif de recherche (ANR Mobi’Kids), nous avons conçu une série de géo-visualisations à l’aide de scripts R et du logiciel de 3D Blender. J’exposerai dans cette première séance « Carte blanche », mon point de vue sur la conception de ces géo-visualisations comme valorisation de résultats scientifiques. Ces résultats sont issus d’un long processus itératif entre plan d’échantillonnage, récolte de données, traitement de la donnée, visualisation puis re-traitement de la donnée etc. Enfin je montrerai l’importance des questions autour des mobilités, dans le processus itératif et ainsi dans le façonnement de nos géo-visualisations.
+*À partir de données de mobilité GPS récoltées et traitées par un collectif de recherche (ANR Mobi’Kids), nous avons conçu une série de géo-visualisations à l’aide de scripts R et du logiciel de 3D Blender. J’exposerai dans cette première séance « Carte blanche », mon point de vue sur la conception de ces géo-visualisations comme valorisation de résultats scientifiques. Ces résultats sont issus d’un long processus itératif entre plan d’échantillonnage, récolte de données, traitement de la donnée, visualisation puis re-traitement de la donnée etc. Enfin je montrerai l’importance des questions autour des mobilités, dans le processus itératif et ainsi dans le façonnement de nos géo-visualisations.*
 
 https://cnrs.zoom.us/j/97232935796?pwd=UnhxWFlBKytoWmtFampWcVpkZGlDQT09
 
