@@ -1,6 +1,6 @@
 # Webinaires "Carte blanche"
 
-Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à l'exploration et aux discussions sur les formes de cartographies et de géovisualisations de données contemporaines. L'objectif de ces temps d'échange est à la fois de permettre la présentation de travaux, de réalisations ou d'expérimentations cartographiques diversifiées et d'échanger collectivement sur les leviers et les enjeux actuels de la représentation de données sptiales tant d'un point de vue conceptuel, opérationnel, méthodologique que technique.
+Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à *l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données*. L'objectif de ces temps d'échange est à la fois de permettre la *présentation* de travaux, de réalisations ou d'expérimentations cartographiques diversifiées et d'*échanger collectivement* sur les leviers et les enjeux actuels de la représentation de données spatiales tant d'un point de vue conceptuel, opérationnel, méthodologique que technique.
 
 ## Format
 
