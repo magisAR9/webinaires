@@ -19,6 +19,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 https://cnrs.zoom.us/j/97232935796?pwd=UnhxWFlBKytoWmtFampWcVpkZGlDQT09
 
 ID de réunion : 972 3293 5796
+
 Code secret : 6J92Ww
 
 ---------------------------------------------------------------------------------------------------------------------------------
