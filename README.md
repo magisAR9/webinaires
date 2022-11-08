@@ -15,7 +15,6 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ---------------------------------------------------------------------------------------------------------------------------------
 * 5 décembre 2022 :	RIVIERE Philippe, [@fil](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas)
-* 6 décembre 2023 : collectif AR9magis, [JEGeovizRennes](https://github.com/magisAR9/JEGeovizRennes) (animation Boris)
 * 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
 
 
