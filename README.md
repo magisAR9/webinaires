@@ -10,14 +10,13 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Calendrier des Webinaires :calendar:
 
-**Mardi 8 novembre (12h30-13h30)** [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br>
-[_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)
-
-[Vidéo du Wébinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
-
----------------------------------------------------------------------------------------------------------------------------------
 * 5 décembre 2022 :	RIVIERE Philippe, [@fil](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas)
 * 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
+
+## Wébinaires passés 
+* Mardi 8 novembre [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br>
+[_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)
+[Vidéo du Wébinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
 
 
 ## Intervenir dans le webinaire
