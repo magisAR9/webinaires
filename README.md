@@ -15,7 +15,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Webinaires passés 
 * Mardi 8 novembre [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)
-* 
+
 📺 [Vidéo du Webinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
 
 
