@@ -7,12 +7,9 @@ _Effets spéciaux pour questions spatiales_ par [Colin KEROUANTON](https://colin
 
 **Accès Zoom** </br>
 [Lien](https://cnrs.zoom.us/j/97232935796?pwd=UnhxWFlBKytoWmtFampWcVpkZGlDQT09) </br>
--ID de réunion : 972 3293 5796 </br>
--Code secret : 6J92Ww </br>
+-ID de réunion : 972 3293 5796 | Code secret : 6J92Ww </br>
 
-**Ressources** (à venir) </br>
-- Lien vers l'enregistrement </br>
-- Lien vers les slides  </br>
-- Autre lien
+**Ressources** </br>
+📺 [Vidéo du Webinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z) </br>
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
