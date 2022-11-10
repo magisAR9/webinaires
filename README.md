@@ -10,8 +10,11 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Calendrier des Webinaires :calendar:
 
-* 5 décembre 2022 :	RIVIERE Philippe, [@fil](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas)
-* 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
+* Mercredi <ins>7 décembre 2022</ins> à 12h30 __Expérimentations cartographiques dans mon navigateur web__, par [Philippe Rivière](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas).
+
+*"En novembre 2021 j'ai produit une trentaine d'expérimentations cartographiques, une par jour, qui toutes fonctionnent dans le navigateur web. Qu'il s'agisse de charger des données géospatiales dans un format moderne, d'implémenter une méthode d'interpolation spatiale, ou d'inventer un nouveau type de carte isodémographique, il n'est plus indispensable d'installer des outils complexes sur son ordinateur. Une simple page web, un peu de code javascript, permet de démarrer—et de publier—instantanément."*
+
+* <ins>2 février 2023</ins> : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
 
 ## Webinaires passés 
 * Mardi 8 novembre [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)
