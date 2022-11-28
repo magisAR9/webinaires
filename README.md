@@ -14,6 +14,11 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 *"En novembre 2021 j'ai produit une trentaine d'expérimentations cartographiques, une par jour, qui toutes fonctionnent dans le navigateur web. Qu'il s'agisse de charger des données géospatiales dans un format moderne, d'implémenter une méthode d'interpolation spatiale, ou d'inventer un nouveau type de carte isodémographique, il n'est plus indispensable d'installer des outils complexes sur son ordinateur. Une simple page web, un peu de code javascript, permet de démarrer—et de publier—instantanément." https://observablehq.com/@visionscarto/30-days-and-as-many-maps*
 
+[https://cnrs.zoom.us/j/94166160780?pwd=bFlPc0RGV2RIVkNlOXRHS3hKeTNJUT09](https://cnrs.zoom.us/j/94166160780?pwd=bFlPc0RGV2RIVkNlOXRHS3hKeTNJUT09)
+
+Meeting ID: 941 6616 0780
+Passcode: 0FV1hC
+
 * <ins>2 février 2023</ins> : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
 
 ## Webinaires passés 
