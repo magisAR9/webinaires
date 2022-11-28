@@ -1,4 +1,4 @@
-**Webinaire Carte Blanche #2. Mercredi 9 décembre 2023 (12h30-13h30)** </br>
+**Webinaire Carte Blanche #2. Mercredi 7 décembre 2023 (12h30-13h30)** </br>
 _Expérimentations cartographiques dans mon navigateur web_ par [Philippe RIVIERE](https://observablehq.com/@fil) (Visions Carto, Observable) </br>
 
 ![image](https://user-images.githubusercontent.com/13615192/203082266-bfa0e3a4-e476-4da1-8dfa-567a0418f53f.png)
