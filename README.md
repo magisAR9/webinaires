@@ -10,9 +10,9 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Calendrier des Webinaires :calendar:
 
-* Mercredi <ins>7 décembre 2022</ins> à 12h30 __Expérimentations cartographiques dans mon navigateur web__, par [Philippe Rivière](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas).
+* Mercredi <ins>7 décembre 2022</ins> à 12h30 __Faire des cartes statistiques avec Observable Plot__, par [Philippe Rivière](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas).
 
-*"En novembre 2021 j'ai produit une trentaine d'expérimentations cartographiques, une par jour, qui toutes fonctionnent dans le navigateur web. Qu'il s'agisse de charger des données géospatiales dans un format moderne, d'implémenter une méthode d'interpolation spatiale, ou d'inventer un nouveau type de carte isodémographique, il n'est plus indispensable d'installer des outils complexes sur son ordinateur. Une simple page web, un peu de code javascript, permet de démarrer—et de publier—instantanément." https://observablehq.com/@visionscarto/30-days-and-as-many-maps*
+Observable Plot est une librairie JavaScript gratuite et open-source qui permet de visualiser rapidement des données tabulaires. Elle dispose d'une API concise et mémorable pour favoriser la fluidité. Plot ne propose pas des types de graphiques. Au lieu de cela, met à disposition des  "marques" (points, lignes, barres...) qu'il est possible de transformer et combiner. Et aujourd'hui Plot met introduit les marques géographiques 🌏 pour permettre la réalisation de cartes statistiques. C'est cette nouvelle fonctionnalité que que Philippe Rivière (qui maintient la librairie avec Mike Bostock) propose de présenter lors de ce wébinaire.
 
 [https://cnrs.zoom.us/j/94166160780?pwd=bFlPc0RGV2RIVkNlOXRHS3hKeTNJUT09](https://cnrs.zoom.us/j/94166160780?pwd=bFlPc0RGV2RIVkNlOXRHS3hKeTNJUT09)
 
