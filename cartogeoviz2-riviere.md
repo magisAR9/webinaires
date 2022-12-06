@@ -1,5 +1,5 @@
-**Webinaire Carte Blanche #2. Mercredi 7 décembre 2023 (12h30-13h30)** </br>
-_Faire des cartes thémétiques avec Observable Plot_ par [Philippe RIVIERE](https://observablehq.com/@fil) (Visions Carto, Observable) </br>
+**Webinaire Carte Blanche #2. Mercredi 7 décembre 2023 (12h30-13h30)**
+_Faire des cartes statistiques avec Observable Plot_ par [Philippe RIVIERE](https://observablehq.com/@fil) (Visions Carto, Observable) </br>
 
 ![image](obsplot.jpeg)
 
