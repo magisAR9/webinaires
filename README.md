@@ -18,7 +18,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 📺 [Vidéo du Webinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
 
-* Mercredi <ins>7 décembre 2022</ins> à 12h30 __Faire des cartes statistiques avec Observable Plot__, par [Philippe Rivière](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas).
+* Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)
 
 📺 [Vidéo du Webinaire](https://pewflix.com/w/nppUsvZNn6Y3mE5XwmK7gT)
 
