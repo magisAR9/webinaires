@@ -20,7 +20,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 * Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)
 
-📺 [Vidéo du Webinaire](https://pewflix.com/w/nppUsvZNn6Y3mE5XwmK7gT)
+📺 [Vidéo du Webinaire : à venir] </br>
 
 ## Intervenir dans le webinaire
 Si vous êtes intéressé.e.s à venir présenter vos travaux ou expérimentations cartographiques vous êtes les bienvenus ! Que vous soyez dans le monde académique, dans le secteur privé ou passionné de cartographie et de géovisualisation contactez le collectif de l'AR9 :[@ collectif de l'AR](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr).
