@@ -10,22 +10,17 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Calendrier des Webinaires :calendar:
 
-* Mercredi <ins>7 décembre 2022</ins> à 12h30 __Faire des cartes statistiques avec Observable Plot__, par [Philippe Rivière](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas).
-
-Observable Plot est une librairie JavaScript gratuite et open-source qui permet de visualiser rapidement des données tabulaires. Elle dispose d'une API concise et mémorable pour favoriser la fluidité. Plot ne propose pas des types de graphiques. Au lieu de cela, met à disposition des  "marques" (points, lignes, barres...) qu'il est possible de transformer et combiner. Et aujourd'hui Plot met introduit les marques géographiques 🌏 pour permettre la réalisation de cartes statistiques. C'est cette nouvelle fonctionnalité que que Philippe Rivière (qui maintient la librairie avec Mike Bostock) propose de présenter lors de ce wébinaire.
-
-[https://cnrs.zoom.us/j/94166160780?pwd=bFlPc0RGV2RIVkNlOXRHS3hKeTNJUT09](https://cnrs.zoom.us/j/94166160780?pwd=bFlPc0RGV2RIVkNlOXRHS3hKeTNJUT09)
-
-Meeting ID: 941 6616 0780
-Passcode: 0FV1hC
-
 * <ins>2 février 2023</ins> : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
 
 ## Webinaires passés 
+
 * Mardi 8 novembre [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)
 
 📺 [Vidéo du Webinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
 
+* Mercredi <ins>7 décembre 2022</ins> à 12h30 __Faire des cartes statistiques avec Observable Plot__, par [Philippe Rivière](https://observablehq.com/@fil), Observable/Visions Carto (animation Nicolas).
+
+📺 [Vidéo du Webinaire](https://pewflix.com/w/nppUsvZNn6Y3mE5XwmK7gT)
 
 ## Intervenir dans le webinaire
 Si vous êtes intéressé.e.s à venir présenter vos travaux ou expérimentations cartographiques vous êtes les bienvenus ! Que vous soyez dans le monde académique, dans le secteur privé ou passionné de cartographie et de géovisualisation contactez le collectif de l'AR9 :[@ collectif de l'AR](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr).
