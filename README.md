@@ -10,6 +10,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Calendrier des Webinaires :calendar:
 
+* 7 mars 2023 : *De la carte climatique au chorotype climatique : propositions de modèles graphiques*, [Najla Touati](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [Laurent Jégou](https://ljegou.github.io/), LISST (CNRS-Universté Toulouse Jean Jaurès)
 * <ins>2 février 2023</ins> : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise)	
 
 ## Webinaires passés 
