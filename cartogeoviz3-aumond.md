@@ -1,5 +1,7 @@
 **Webinaire Carte Blanche #3. Jeudi 2 février 2023 (12h30-13h30)** </br>
-_Cartographie du paysage sonore urbain_ par Pierre AUMOND [Soundcartography](https://soundcartography.wordpress.com/) (CR Univ. Gustave Eiffel, CEREMA, UMRAE) </br>
+_Cartographie du paysage sonore urbain_ </br>
+par Pierre AUMOND, CR Univ. Gustave Eiffel, CEREMA, UMRAE,  </br>
+ [@SoundCartograp1](https://twitter.com/SoundCartograp1), [Soundcartography](https://soundcartography.wordpress.com/)
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_aumond.png)
 
