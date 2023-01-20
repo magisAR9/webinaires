@@ -10,7 +10,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-* 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise) </br>	
+* 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [@SoundCartograp1](https://twitter.com/SoundCartograp1), [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise) </br>	
 &rarr; [Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md)
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_aumond.png)
