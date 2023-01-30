@@ -10,7 +10,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-* 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [@SoundCartograp1](https://twitter.com/SoundCartograp1), [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise) </br>	
+### 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [@SoundCartograp1](https://twitter.com/SoundCartograp1), [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise) </br>	
 &rarr; [Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md)
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_aumond.png)
@@ -22,11 +22,11 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Webinaires passés 
 
-### Mardi 8 novembre [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)
+#### Mardi 8 novembre [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)
 
 📺 [Vidéo du Webinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
 
-### Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)
+#### Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)
 
 📺 [Vidéo du Webinaire](https://pewflix.com/w/nppUsvZNn6Y3mE5XwmK7gT) </br>
 
