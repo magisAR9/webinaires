@@ -14,8 +14,8 @@ provenant d'une grande variété de sources. La complexité augmente encore lors
 à leur perception par les individus. Des travaux relatifs à ce sujet seront présentés et commentés.
 
 **Accès Zoom** </br>
-[Lien](https://univ-eiffel.zoom.us/j/4610252032) </br>
--ID de réunion : 4610252032 | Code secret : AR9m@gis </br>
+[Lien](https://univ-eiffel.zoom.us/j/87680547058) </br>
+-ID de réunion : 876 8054 7058 | Code secret : AR9m@gis </br>
 
 **Ressources** </br>
 📺 _A venir_ </br>
