@@ -10,26 +10,24 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-### 2 février 2023 : AUMONT Pierre, CR Univ. Gustave Eiffel, [@SoundCartograp1](https://twitter.com/SoundCartograp1), [soundcartography](https://soundcartography.wordpress.com/) (animation Françoise) </br>	
-&rarr; [Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md)
-
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_aumond.png)
+### 7 mars 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
+[TOUATI Najla](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [JEGOU Laurent](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
 
 ## Webinaires à venir :calendar:
 
-* 7 mars 2023 : *De la carte climatique au chorotype climatique : propositions de modèles graphiques*, [Najla Touati](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [Laurent Jégou](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
 * 4 avril 2023 : [DOUET Aurélie](https://twitter.com/CartoDouet/), IE UMR Géographie-cités (_informations à venir_)
-* 7 septembre 2023 · Jean-Philippe Gautier présentera une application web de cartographie statistique : [www.cartostat.eu](http://www.cartostat.eu/)
+* 7 septembre 2023 : GAUTIER Jean-Philippe présentera [www.cartostat.eu](http://www.cartostat.eu/), une application web de cartographie statistique.
 
 ## Webinaires passés 
 
-#### Mardi 8 novembre [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)
+#### Jeudi 2 février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [@SoundCartograp1](https://twitter.com/SoundCartograp1) <br/> [**Cartographie du paysage sonore urbain**](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
+📺 [Vidéo du Webinaire](https://bit.ly/3lyQXK3)</br>
 
-📺 [Vidéo du Webinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
-
-#### Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)
-
+#### Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)</br>
 📺 [Vidéo du Webinaire](https://pewflix.com/w/nppUsvZNn6Y3mE5XwmK7gT) </br>
+
+#### Mardi 8 novembre 2022 [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)</br>
+📺 [Vidéo du Webinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
 
 ## Intervenir dans le webinaire
 Si vous êtes intéressé.e.s à venir présenter vos travaux ou expérimentations cartographiques vous êtes les bienvenus ! Que vous soyez dans le monde académique, dans le secteur privé ou passionné de cartographie et de géovisualisation contactez le collectif de l'AR9 :[@ collectif de l'AR](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr).
