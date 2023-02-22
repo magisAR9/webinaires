@@ -18,6 +18,6 @@ provenant d'une grande variété de sources. La complexité augmente encore lors
 -ID de réunion : 876 8054 7058 | Code secret : AR9m@gis</br>
 
 **Ressources** </br>
-📺 _A venir_ </br>
+📺 [Video du webinaire](https://bit.ly/3KoOBrs) </br>
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
