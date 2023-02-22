@@ -23,7 +23,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 ## Webinaires passés 
 
 #### Jeudi 2 février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [@SoundCartograp1](https://twitter.com/SoundCartograp1) <br/> [**Cartographie du paysage sonore urbain**](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
-📺 [Vidéo du Webinaire](https://bit.ly/3lyQXK3)</br>
+📺 [Vidéo du Webinaire](https://bit.ly/3KoOBrs)</br>
 
 #### Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)</br>
 📺 [Vidéo du Webinaire](https://pewflix.com/w/nppUsvZNn6Y3mE5XwmK7gT) </br>
