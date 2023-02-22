@@ -17,7 +17,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Webinaires à venir :calendar:
 
-* 4 avril 2023 : [DOUET Aurélie](https://twitter.com/CartoDouet/), IE UMR Géographie-cités (_informations à venir_)
+* 5/6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> **[na.rm=TRUE](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)**
 * 7 septembre 2023 : GAUTIER Jean-Philippe présentera [www.cartostat.eu](http://www.cartostat.eu/), une application web de cartographie statistique.
 
 ## Webinaires passés 
