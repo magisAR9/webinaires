@@ -10,14 +10,13 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-### 7 mars 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
-[TOUATI Najla](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [JEGOU Laurent](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
-
-![alt text](https://github.com/magisAR9/webinaires/blob/main/img_reporte.PNG)
+### mars 2023. Programmation encours
 
 ## Webinaires à venir :calendar:
 
-* 6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> **[na.rm=TRUE](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)**
+* 6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)*(animation Françoise Bahoken).
+* Juillet 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
+[TOUATI Najla](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [JEGOU Laurent](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
 * 7 septembre 2023 : GAUTIER Jean-Philippe présentera [www.cartostat.eu](http://www.cartostat.eu/), une application web de cartographie statistique.
 
 ## Webinaires passés 
