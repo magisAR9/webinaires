@@ -14,12 +14,15 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Webinaires à venir :calendar:
 
-* 6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)*(animation Françoise Bahoken).
-* Juillet 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
+* 6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)* (animation Françoise Bahoken).
+* 5 juin 2023 : retrouvez l'AR9 à Sagéo (Québec) dans le cadre de [deux ateliers](https://crdig.ulaval.ca/sageo2023/#programme) : (2) *Articulation de différents langages (R, JavaScript et Python) pour la géovisualisation avec Quarto*, (7) *Géographies numériques et approches sensibles de l’espace*
+* 6 juillet 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
 [TOUATI Najla](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [JEGOU Laurent](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
 * 7 septembre 2023 : GAUTIER Jean-Philippe présentera [www.cartostat.eu](http://www.cartostat.eu/), une application web de cartographie statistique.
 
 ## Webinaires passés 
+
+#### mars 2023 : pas de webinaire en raison du mouvement contre la réforme des retraites
 
 #### Jeudi 2 février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [@SoundCartograp1](https://twitter.com/SoundCartograp1) <br/> [**Cartographie du paysage sonore urbain**](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
 📺 [Vidéo du Webinaire](https://bit.ly/3KoOBrs)</br>
