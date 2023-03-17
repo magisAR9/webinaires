@@ -15,7 +15,10 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 ## Webinaires à venir :calendar:
 
 * 6 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)* (animation Françoise Bahoken).
-* 5 juin 2023 : retrouvez l'AR9 à Sagéo (Québec) dans le cadre de [deux ateliers](https://crdig.ulaval.ca/sageo2023/#programme) : (2) *Articulation de différents langages (R, JavaScript et Python) pour la géovisualisation avec Quarto*, (7) *Géographies numériques et approches sensibles de l’espace*
+* 4 mai 2023 : _en cours de programmation_
+* 5 juin 2023 : retrouvez l'AR9 à Sagéo (Québec) dans le cadre de [deux ateliers](https://crdig.ulaval.ca/sageo2023/#programme) : </br>
+(2) *Articulation de différents langages (R, JavaScript et Python) pour la géovisualisation avec Quarto* (contact : Nicolas Lambert) </br>
+(7) *Géographies numériques et approches sensibles de l’espace* (contact : Claire Cunty) </br>
 * 6 juillet 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
 [TOUATI Najla](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [JEGOU Laurent](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
 * 7 septembre 2023 : GAUTIER Jean-Philippe présentera [www.cartostat.eu](http://www.cartostat.eu/), une application web de cartographie statistique.
