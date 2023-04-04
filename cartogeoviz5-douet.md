@@ -1,4 +1,4 @@
-**Webinaire Carte Blanche #5. jeudi 6 avril 2023 (12h30-13h30)** </br>
+**Webinaire Carte Blanche #5. lundi 17 avril 2023 (12h30-13h30)** </br>
 _na.rm=TRUE. Requête, interactivité et gestion des données manquantes_ </br>
 par [Aurélie DOUET](https://geographie-cites.cnrs.fr/membres/aurelie-douet/), [CartoDouet](https://twitter.com/CartoDouet), IE UMR Géographie-Cités, Paris.  </br>
 
