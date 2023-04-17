@@ -10,12 +10,10 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-### mars 2023. Programmation encours
+* 11 mai 2023 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> *[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)* (animation Etienne Côme).
 
 ## Webinaires à venir :calendar:
 
-* (reporté au) 17 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)* (animation Françoise Bahoken).
-* 11 mai 2023 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> *[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)* (animation Etienne Côme).
 * 5 juin 2023 : retrouvez l'AR9 à Sagéo (Québec) dans le cadre de [deux ateliers](https://crdig.ulaval.ca/sageo2023/#programme) : </br>
 (2) *Articulation de différents langages (R, JavaScript et Python) pour la géovisualisation avec Quarto* (contact : Nicolas Lambert) </br>
 (7) *Géographies numériques et approches sensibles de l’espace* (contact : Claire Cunty) </br>
@@ -25,6 +23,10 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 * 5 Octobre 2023 : **[GAFFURI Julien](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf) </br> *[gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-graffuri.md)* (Animation Etienne Côme)
 
 ## Webinaires passés 
+
+#### lundi 17 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)* 
+📺 [Vidéo du Webinaire](https://bit.ly/3L6kq8p) </br>
+[github.com/.../mobiliscope](https://github.com/Geographie-cites/mobiliscope) (migration prochaine vers Gitlab)</br>
 
 #### mars 2023 : pas de webinaire en raison du mouvement contre la réforme des retraites
 
