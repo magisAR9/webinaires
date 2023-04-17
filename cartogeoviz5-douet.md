@@ -19,6 +19,9 @@ difficultés rencontrées et les choix envisagés pour ce travail en cours.
 -ID de réunion : 898 7148 6576 | Code secret : AR9m@gis</br>
 
 **Ressources** </br>
-📺 _A venir_ </br>
+📺 [Vidéo du Webinaire](https://bit.ly/3L6kq8p) </br>
+- [github.com/.../mobiliscope](https://github.com/Geographie-cites/mobiliscope) (migration prochaine vers Gitlab)</br>
+- [introjs](https://introjs.com/)
+- [R/testthat](https://cloud.r-project.org/web/packages/testthat/index.html)
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
