@@ -15,8 +15,8 @@ difficultés rencontrées et les choix envisagés pour ce travail en cours.
 
 
 **Accès Zoom** </br>
-[Lien](https://univ-eiffel.zoom.us/j/87680547058) </br>
--ID de réunion : 876 8054 7058 | Code secret : AR9m@gis</br>
+[Lien](https://univ-eiffel.zoom.us/j/89871486576) </br>
+-ID de réunion : 898 7148 6576 | Code secret : AR9m@gis</br>
 
 **Ressources** </br>
 📺 _A venir_ </br>
