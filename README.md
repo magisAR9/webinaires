@@ -26,7 +26,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 #### lundi 17 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)* 
 📺 [Vidéo du Webinaire](https://bit.ly/3L6kq8p) </br>
-[github.com/.../mobiliscope](https://github.com/Geographie-cites/mobiliscope) (migration prochaine vers Gitlab)</br>
+[Ressources](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)
 
 #### mars 2023 : pas de webinaire en raison du mouvement contre la réforme des retraites
 
