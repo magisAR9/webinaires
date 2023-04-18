@@ -20,6 +20,7 @@ difficultés rencontrées et les choix envisagés pour ce travail en cours.
 
 **Ressources** </br>
 📺 [Vidéo du Webinaire](https://bit.ly/3L6kq8p) </br>
+- [mobiliscope](https://mobiliscope.cnrs.fr/fr) </br>
 - [github.com/.../mobiliscope](https://github.com/Geographie-cites/mobiliscope) (migration prochaine vers Gitlab)</br>
 - [introjs](https://introjs.com/)
 - [R/testthat](https://cloud.r-project.org/web/packages/testthat/index.html)
