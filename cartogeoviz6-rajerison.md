@@ -8,6 +8,6 @@ par [Mathieu RAJERISON](https://datagistips.hypotheses.org/author/datagistips), 
 **Accès Zoom** </br>
 
 [Lien](https://univ-eiffel.zoom.us/j/85300025732) </br>
-- ID de réunion: 898 7148 6576 | Code secret : AR9m@gis</br>
+- ID de réunion: 853 0002 5732 | Code secret : AR9m@gis</br>
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
