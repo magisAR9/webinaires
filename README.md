@@ -12,12 +12,9 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 * 5 juin 2023 : retrouvez l'AR9 à Sagéo (Québec) dans le cadre de [deux ateliers](https://crdig.ulaval.ca/sageo2023/#programme) : </br>
 (2) *Articulation de différents langages (R, JavaScript et Python) pour la géovisualisation avec Quarto* (contact : Nicolas Lambert) </br>
-
+(7) *Géographies numériques et approches sensibles de l’espace* (contact : Claire Cunty) </br>
 ## Webinaires à venir :calendar:
 
-(7) *Géographies numériques et approches sensibles de l’espace* (contact : Claire Cunty) </br>
-* 6 juillet 2023 : De la carte climatique au chorotype climatique : propositions de modèles graphiques </br>
-[TOUATI Najla](https://lisst.univ-tlse2.fr/accueil/hn-accompagnement-de-la-recherche/najla-touati#/) et [JEGOU Laurent](https://ljegou.github.io/), UMR LISST (CNRS-Universté Toulouse 2 Jean Jaurès) (animation Anne-Christine)
 * 7 septembre 2023 : GAUTIER Jean-Philippe présentera [www.cartostat.eu](http://www.cartostat.eu/), une application web de cartographie statistique.
 * 5 Octobre 2023 : **[GAFFURI Julien](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf) </br> *[gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-graffuri.md)* (Animation Etienne Côme)
 
