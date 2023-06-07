@@ -15,9 +15,11 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 (7) *Géographies numériques et approches sensibles de l’espace* (contact : Claire Cunty) </br>
 ## Webinaires à venir :calendar:
 
-* 6 juillet 2023 : Najla TOUATI et Laurent JÉGOU : [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
-* 7 septembre 2023 : Jean-Philippe GAUTIER présentera [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md).
-* 5 Octobre 2023 : **[GAFFURI Julien](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf) </br> *[gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-graffuri.md)* (Animation Etienne Côme)
+* 6 juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** : [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md) (animation Anne-Christine Bronner)
+* 7 septembre 2023 : **Jean-Philippe GAUTIER** présentera [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) (animation Anne-Christine Bronner)
+* 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf), [gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-graffuri.md) (Animation Etienne Côme)
+* 7 Novembre 2023 : **[Maher BEN REBAH]**, UMR 7533 LADYSS, [La plateforme ELYSSA de géovisualisation sur les élections](
+[https://www.cnrs.fr/fr/cnrsinfo/erc-proof-concept-les-quatre-laureats-francais-heberges-au-cnrs](https://cordis.europa.eu/project/id/101082254)) (Animation Françoise Bahoken)
 
 ## Webinaires passés 
 
