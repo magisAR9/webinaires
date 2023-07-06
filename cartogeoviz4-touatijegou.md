@@ -7,7 +7,6 @@ _De la carte climatique au chorotype climatique : propositions de modèles grap
 
 **Accès au webinaire**
 
-[Lien](https://bbb.unistra.fr/b/bro-r7m-ugj-wpp) </br>
-- Code d'accès : 002585
+[Trace vidéo du webinaire](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1688636333439)</br>
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
