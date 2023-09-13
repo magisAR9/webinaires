@@ -10,22 +10,26 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-* 5 juin 2023 : retrouvez l'AR9 à Sagéo (Québec) dans le cadre de [deux ateliers](https://crdig.ulaval.ca/sageo2023/#programme) : </br>
-(2) *Articulation de différents langages (R, JavaScript et Python) pour la géovisualisation avec Quarto* (contact : Nicolas Lambert) </br>
-(7) *Géographies numériques et approches sensibles de l’espace* (contact : Claire Cunty) </br>
+* 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf), [gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-graffuri.md) (Animation Etienne Côme)
+
 ## Webinaires à venir :calendar:
 
-* 7 septembre 2023 : **Jean-Philippe GAUTIER** présentera [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) (animation Anne-Christine Bronner)
-* 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf), [gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-graffuri.md) (Animation Etienne Côme)
 * 7 Novembre 2023 : **[Maher BEN REBAH]**, UMR 7533 LADYSS, [La plateforme ELYSSA de géovisualisation sur les élections](
 [https://www.cnrs.fr/fr/cnrsinfo/erc-proof-concept-les-quatre-laureats-francais-heberges-au-cnrs](https://cordis.europa.eu/project/id/101082254)) (Animation Françoise Bahoken)
 
 ## Webinaires passés 
 
-#### 6 juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** : [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md) (animation Anne-Christine Bronner)
+#### 7 septembre 2023 : **Jean-Philippe GAUTIER** : [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md)
+[Ressource (pré-enregistrement)](https://podv2.unistra.fr/media/videos/02d91dc5c809fd175b161f28b3576e8b60a408fde4dd4e58dbe722ffde03252d/52549/720p_video1116348838.mp4)  </br>
+
+#### 6 juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** : [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
 [Ressources](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1688636333439)
 
-#### 11 mai 2023 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> *[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)* (animation Etienne Côme).
+#### 5 juin 2023 : [Ateliers](https://crdig.ulaval.ca/sageo2023/#programme) **de l'AR9magis organisés en amont de la conférence Sagéo 2023 (Québec): </br>
+(2) *Articulation de différents langages (R, JavaScript et Python) pour la géovisualisation avec Quarto* (contact : Nicolas Lambert) </br>
+(7) *Géographies numériques et approches sensibles de l’espace* (contact : Claire Cunty) - co-organisation avec l'AR 14 Critigis </br>
+
+#### 11 mai 2023 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> *[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)*
 [Ressources](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)
 
 #### lundi 17 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)* 
