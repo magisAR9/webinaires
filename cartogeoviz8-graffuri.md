@@ -1,5 +1,5 @@
 **Webinaire Carte Blanche #8. jeudi 5 Octobre 2023 (12h30-13h30)** </br>
-Gridviz </br>
+Gridviz: Une bibliothèque pour la cartographie en ligne de données carroyées </br>
 par [Julien Gaffuri]([https://datagistips.hypotheses.org/author/datagistips](https://jgaffuri.github.io/)), [@julgaf](https://twitter.com/julgaf), [@julgaf@mapstodon.space](https://mapstodon.space/@julgaf) Eurostats  </br>
 
 **Accès**
