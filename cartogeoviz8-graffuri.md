@@ -2,7 +2,7 @@
 Gridviz </br>
 par [Julien Gaffuri]([https://datagistips.hypotheses.org/author/datagistips](https://jgaffuri.github.io/)), [@julgaf](https://twitter.com/julgaf), [@julgaf@mapstodon.space](https://mapstodon.space/@julgaf) Eurostats  </br>
 
-**Accès **
+**Accès**
 
 - https://univ-eiffel.zoom.us/j/83465490271
 - ID de réunion : 834 6549 0271
