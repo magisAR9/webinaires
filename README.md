@@ -10,7 +10,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-* 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf), [gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-graffuri.md) (Animation Etienne Côme)
+* 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf), [gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-graffuri.md) (Animation Etienne Côme)
 
 ## Webinaires à venir :calendar:
 
