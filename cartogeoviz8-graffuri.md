@@ -16,7 +16,7 @@ Contrairement aux outils traditionnels de cartographie web à base de données m
 **Ressources** </br>
 
 - [https://jgaffuri.github.io/](https://jgaffuri.github.io/)
-- [https://eurostat.github.io/gridviz/](https://jgaffuri.github.io/)
+- [https://eurostat.github.io/gridviz/]([https://jgaffuri.github.io/](https://eurostat.github.io/gridviz/))
 
 <img src="gridviz.png"></img>
 
