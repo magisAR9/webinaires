@@ -12,7 +12,7 @@ Contrairement aux outils traditionnels de cartographie web à base de données m
 - 📺 [Vidéo du Webinaire](https://sharedocs.huma-num.fr/wl/?id=yYq7rFkpzTvIY7WZri8lR79XiDkAonRC&fmode=open)
 - [Slides](./20231005_gridviz_GDRmagis_gaffuri.pdf)
 - [https://jgaffuri.github.io/](https://jgaffuri.github.io/)
-- [https://eurostat.github.io/gridviz/]([https://jgaffuri.github.io/](https://eurostat.github.io/gridviz/))
+- [https://eurostat.github.io/gridviz/](https://eurostat.github.io/gridviz/)
 
 <img src="gridviz.png"></img>
 
