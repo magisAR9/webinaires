@@ -2,12 +2,6 @@
 Gridviz: Une bibliothèque pour la cartographie en ligne de données carroyées </br>
 par [Julien Gaffuri]([https://datagistips.hypotheses.org/author/datagistips](https://jgaffuri.github.io/)), [@julgaf](https://twitter.com/julgaf), [@julgaf@mapstodon.space](https://mapstodon.space/@julgaf) Eurostat  </br>
 
-**Accès**
-
-- https://univ-eiffel.zoom.us/j/83465490271
-- ID de réunion : 834 6549 0271
-- Mot de passe : CarteBlan8
-
 
 Gridviz est une  bibliothèque JavaScript qui permet de visualiser des données quadrillées (ou tout ensemble de données tabulaires avec une position x/y) dans le navigateur dans une grande variété styles cartographiques avancés. 
 Contrairement aux outils traditionnels de cartographie web à base de données matricielles, Gridviz effectu tout le rendu tout côté client, à la volée.
@@ -15,6 +9,8 @@ Contrairement aux outils traditionnels de cartographie web à base de données m
 
 **Ressources** </br>
 
+- 📺 [Vidéo du Webinaire](https://sharedocs.huma-num.fr/wl/?id=yYq7rFkpzTvIY7WZri8lR79XiDkAonRC&fmode=open)
+- [Slides](./20231005_gridviz_GDRmagis_gaffuri.pdf)
 - [https://jgaffuri.github.io/](https://jgaffuri.github.io/)
 - [https://eurostat.github.io/gridviz/]([https://jgaffuri.github.io/](https://eurostat.github.io/gridviz/))
 
