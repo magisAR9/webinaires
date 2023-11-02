@@ -10,17 +10,16 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-* 7 Novembre 2023 : **[Maher BEN REBAH]**, UMR 7533 LADYSS, [La plateforme ELYSSA de géovisualisation sur les élections](
-[https://www.cnrs.fr/fr/cnrsinfo/erc-proof-concept-les-quatre-laureats-francais-heberges-au-cnrs](https://cordis.europa.eu/project/id/101082254)) (Animation Françoise Bahoken)
+* 7 Novembre 2023 : **[Maher BEN REBAH](https://www.linkedin.com/in/ben-rebah-maher-37831160/?originalSubdomain=fr), Mourad Ben Cheikh, Mohamed Ben Guiza et Alia Gana**, UMR 7533 LADYSS, </br>
+[ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md) (Animation Françoise Bahoken)
 
 ## Webinaires à venir :calendar:
 
 ## Webinaires passés 
 
-
 #### 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf), [gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-graffuri.md) </br>
 
-#### 7 septembre 2023 : **Jean-Philippe GAUTIER** : [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md)
+#### 7 septembre 2023 : **Jean-Philippe GAUTIER** : [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) </br>
 [Ressource (pré-enregistrement)](https://podv2.unistra.fr/media/videos/02d91dc5c809fd175b161f28b3576e8b60a408fde4dd4e58dbe722ffde03252d/52549/720p_video1116348838.mp4)  </br>
 
 #### 6 juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** : [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
