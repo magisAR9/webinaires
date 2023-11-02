@@ -3,7 +3,7 @@ _ELYSSA : Cartographier et analyser le vote en Tunisie_ </br>
 par [Maher BEN REBAH](https://www.linkedin.com/in/ben-rebah-maher-37831160/?originalSubdomain=fr), Mourad Ben Cheikh, Mohamed Ben Guiza, Alia Gana, 
 UMR 7533 LADYSS.
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/webinaire_BenRebah.png)
+![alt text](webinaire_BenRebah.png)
 
 **Résumé** : 
 ELYSSA (_ELectoral information and analYSis System for the enhancement of democracy_) est une plateforme qui vise à faciliter l'accès à l'information électorale, en mettant à la disposition de différentes catégories d'utilisateurs (ONG, médias, acteurs politiques, institutions de coopération) des outils d’analyse et de visualisation du vote et du changement politique en Tunisie post-2011 à une échelle très fine (les centres du vote).
