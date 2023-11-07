@@ -18,6 +18,6 @@ S’adressant, essentiellement, à un public non expert, la plateforme propose d
 -ID de réunion : 898 7148 6576 | Code secret : AR9m@gis</br>
 
 **Ressources** </br>
-📺 Vidéo (à venir)
+📺 [Vidéo](https://sharedocs.huma-num.fr/wl/?id=DCwTF9E7BcrkbNdl5jafA2oRSk7S8xVc)
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
