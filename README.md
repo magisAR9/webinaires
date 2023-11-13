@@ -10,12 +10,14 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-* 7 Novembre 2023 : **[Maher BEN REBAH](https://www.linkedin.com/in/ben-rebah-maher-37831160/?originalSubdomain=fr), Mourad Ben Cheikh, Mohamed Ben Guiza et Alia Gana**, UMR 7533 LADYSS, </br>
-[ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md) (Animation Françoise Bahoken)
+* Jeudi 18 Janvier 2024 : **Maxime MASSON**, [UMR LIUPPA, Equipe T2I](https://liuppa.univ-pau.fr/fr/organisation/equipes-de-recherche/equipe-t2i.html), </br>
+[TextBI : Une plateforme interactive pour la visualisation de données multidimensionnelles issues des réseaux sociaux](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz10-masson.md) (Animation Robin Cura)
 
 ## Webinaires à venir :calendar:
 
 ## Webinaires passés 
+
+#### 7 Novembre 2023 : **[Maher BEN REBAH](https://www.linkedin.com/in/ben-rebah-maher-37831160/?originalSubdomain=fr), Mourad Ben Cheikh, Mohamed Ben Guiza et Alia Gana**, UMR 7533 LADYSS : [ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md) </br>
 
 #### 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf), [gridviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-graffuri.md) </br>
 
