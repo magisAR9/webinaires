@@ -30,10 +30,6 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
 [Ressources](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1688636333439)
 
-#### 5 juin 2023 : [Ateliers](https://crdig.ulaval.ca/sageo2023/#programme) **de l'AR9magis organisés en amont de la conférence Sagéo 2023 (Québec): </br>
-(2) *Articulation de différents langages (R, JavaScript et Python) pour la géovisualisation avec Quarto* (contact : Nicolas Lambert) </br>
-(7) *Géographies numériques et approches sensibles de l’espace* (contact : Claire Cunty) - co-organisation avec l'AR 14 Critigis </br>
-
 #### 11 mai 2023 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> *[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)*
 [Ressources](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)
 
