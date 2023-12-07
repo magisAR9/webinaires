@@ -23,10 +23,10 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 #### 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf)
 :arrow_forward:[Gridviz: Une bibliothèque pour la cartographie en ligne de données carroyées ](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-graffuri.md) </br>
 
-#### 7 septembre 2023 : **Jean-Philippe GAUTIER** : 
+:arrow_forward:#### 7 septembre 2023 : **Jean-Philippe GAUTIER** : 
 [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) </br>
 
-#### 6 juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** (UMR LISST): 
+:arrow_forward:#### 6 juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** (UMR LISST): 
 [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
 [Ressources](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1688636333439)
 
