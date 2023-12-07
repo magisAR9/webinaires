@@ -1,6 +1,6 @@
 # Webinaires "Carte blanche" :globe_with_meridians:
 
-![alt tag](https://github.com/magisAR9/webinaires/blob/main/webinaire.PNG)
+![alt tag]([https://github.com/magisAR9/webinaires/blob/main/webinaire.PNG](https://github.com/magisAR9/webinaires/blob/main/webinaire.PNG?raw=true))
 
 Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels sous la forme d'une "Carte blanche", un temps consacré à **l'exploration et aux discussions sur les formes contemporaines de cartographies et de géovisualisations de données**. L'objectif de ces temps d'échange est à la fois de permettre des **présentations** de travaux, de réalisations ou d'expérimentations cartographiques diversifiées et **des échanges collectifs** sur les leviers et les enjeux actuels de la représentation de données spatiales tant d'un point de vue conceptuel, opérationnel, méthodologique que technique.
 
