@@ -23,27 +23,27 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 #### 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf)
 :arrow_forward:[Gridviz: Une bibliothèque pour la cartographie en ligne de données carroyées ](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-graffuri.md) </br>
 
-:arrow_forward: #### 7 septembre 2023 : **Jean-Philippe GAUTIER** : 
-[www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) </br>
+#### 7 septembre 2023 : **Jean-Philippe GAUTIER** : 
+:arrow_forward:[www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) </br>
 
-:arrow_forward: #### 6 juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** (UMR LISST): 
-[De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
+#### 6 juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** (UMR LISST): 
+:arrow_forward:[De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
 [Ressources](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1688636333439)
 
 #### 11 mai 2023 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> 
-[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)
+:arrow_forward:[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)
 
 #### lundi 17 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> 
-[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)*
+:arrow_forward:[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)*
 
 #### Jeudi 2 février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [@SoundCartograp1](https://twitter.com/SoundCartograp1) <br/> 
-[Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
+:arrow_forward:[Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
 
 #### Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>
-[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)</br>
+:arrow_forward:[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)</br>
 
 #### Mardi 8 novembre 2022 [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> 
-[Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)</br>
+:arrow_forward:[Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)</br>
 
 
 ## Intervenir dans le webinaire
