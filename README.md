@@ -38,8 +38,6 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 📺 [Vidéo du Webinaire](https://bit.ly/3L6kq8p) </br>
 [Ressources](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)
 
-#### mars 2023 : pas de webinaire en raison du mouvement contre la réforme des retraites
-
 #### Jeudi 2 février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [@SoundCartograp1](https://twitter.com/SoundCartograp1) <br/> [**Cartographie du paysage sonore urbain**](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
 📺 [Vidéo du Webinaire](https://bit.ly/3KoOBrs)</br>
 
