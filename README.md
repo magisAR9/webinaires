@@ -33,18 +33,18 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 #### 11 mai 2023 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> 
 [Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)
 
-#### lundi 17 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)* 
-📺 [Vidéo du Webinaire](https://bit.ly/3L6kq8p) </br>
-[Ressources](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)
+#### lundi 17 avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> 
+[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)*
 
-#### Jeudi 2 février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [@SoundCartograp1](https://twitter.com/SoundCartograp1) <br/> [**Cartographie du paysage sonore urbain**](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
-📺 [Vidéo du Webinaire](https://bit.ly/3KoOBrs)</br>
+#### Jeudi 2 février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [@SoundCartograp1](https://twitter.com/SoundCartograp1) <br/> 
+[Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
 
-#### Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)</br>
-📺 [Vidéo du Webinaire](https://pewflix.com/w/nppUsvZNn6Y3mE5XwmK7gT) </br>
+#### Mercredi 7 décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>
+[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)</br>
 
-#### Mardi 8 novembre 2022 [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> [_Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)</br>
-📺 [Vidéo du Webinaire](https://pewflix.com/w/2zEZTPx5BGJafRNCR4Pu3Z)
+#### Mardi 8 novembre 2022 [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> 
+[Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)</br>
+
 
 ## Intervenir dans le webinaire
 Si vous êtes intéressé.e.s à venir présenter vos travaux ou expérimentations cartographiques vous êtes les bienvenus ! Que vous soyez dans le monde académique, dans le secteur privé ou passionné de cartographie et de géovisualisation contactez le collectif de l'AR9 :[@ collectif de l'AR](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr).
