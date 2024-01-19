@@ -16,6 +16,7 @@ Son application a été testée dans le domaine du tourisme en utilisant des don
 -ID de réunion : 913 9691 6407 | Code secret : AR9m@gis</br>
 
 **Ressources** </br>
+📺 [Vidéo](https://sharedocs.huma-num.fr/wl/?id=2wbh1xgHSTcvjieceg2JyGve1G3jEI1z)
 
 
 [^1]: [LIUPPA, E2S, Université de Pau et des Pays de l'Adour (UPPA), Pau, France](https://liuppa.univ-pau.fr/fr/organisation/equipes-de-recherche/equipe-t2i.html)
