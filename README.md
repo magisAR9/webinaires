@@ -12,9 +12,9 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-* mardi 6 février 2024 : **Thomas ANSART**, [Atelier de cartographie de Sciences Po](https://thomasansart.info/), Ce que le code a apporté dans ma pratique de la dataviz (Animation Nicolas Lambert)
+* mardi 6 février 2024 : **Thomas ANSART**, [Atelier de cartographie de Sciences Po](https://thomasansart.info/)
 
-:arrow_forward:[Ce que le code a apporté dans ma pratique de la dataviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz11-ansart.md) </br>
+:arrow_forward:[Ce que le code a apporté dans ma pratique de la dataviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz11-ansart.md) (Animation Nicolas Lambert)</br>
 
 ## Webinaires à venir :calendar:
 
