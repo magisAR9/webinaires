@@ -1,5 +1,5 @@
 **Webinaire Carte Blanche #11. Mardi 6 février 2024 (12h30-13h30)** </br>
-_Ce que le code a apporté dans ma pratique de la dataviz_ par [Thomas AnsartN](https://thomasansart.info/) (Atelier de cartographie de Sciences Po) </br>
+_Ce que le code a apporté dans ma pratique de la dataviz_ par [Thomas Ansart](https://thomasansart.info/) (Atelier de cartographie de Sciences Po) </br>
 
 ![alt text](./ansart.jpg)
 
