@@ -5,11 +5,11 @@ _Ce que le code a apporté dans ma pratique de la dataviz_ par [Thomas Ansart](h
 
 **Résumé** : Au regard d’une décennie d’expérience en dataviz, j’aimerais revenir sur les raisons qui m’ont poussé à l’acquisition progressive de compétences en code ainsi que sur plusieurs projets/outils représentatifs de l’évolution de ma pratique.*
 
-**Suppprt de présentation** </br>
+**Suppprt de présentation**
 
 https://sharedocs.huma-num.fr/wl/?id=RGD0WN7lx9Z0jYD8SSMKSxdWuYmRFx8T
 
-**Vidéo** </br>
+**Vidéo**
 
 https://sharedocs.huma-num.fr/wl/?id=7w35yvuTOmwOBULuuBEJ9BcCWJwTMPrS
 

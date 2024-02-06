@@ -12,19 +12,17 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-* Mardi 6 février 2024 : **Thomas ANSART**, [Atelier de cartographie de Sciences Po](https://thomasansart.info/) (Animation Nicolas Lambert)
-
-:arrow_forward:[Ce que le code a apporté dans ma pratique de la dataviz](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz11-ansart.md)</br>
-
-[Accès Zoom](https://cnrs.zoom.us/j/98075345088?pwd=cElvUy94dXpOTUZPMmJaVldmdS8rUT09) (id : 980 7534 5088 | Code secret : AR9m@gis)
+...
 
 ## Webinaires à venir :calendar:
 
 ## Webinaires passés 
 
+#### Mardi 6 février 2024 : **Thomas ANSART**, [Atelier de cartographie de Sciences Po](https://thomasansart.info/) </br>
+:arrow_forward:[Ce que le code a apporté dans ma pratique de la dataviz](https://magisar9.github.io/webinaires/cartogeoviz11-ansart.html)
+
 #### Jeudi 18 Janvier 2024 : **Maxime MASSON**, [UMR LIUPPA, Equipe T2I](https://liuppa.univ-pau.fr/fr/organisation/equipes-de-recherche/equipe-t2i.html), </br>
 :arrow_forward:[TextBI : Une plateforme interactive pour la visualisation de données multidimensionnelles issues des réseaux sociaux](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz10-masson.md)
-
 
 #### 7 Novembre 2023 : **[Maher BEN REBAH](https://www.linkedin.com/in/ben-rebah-maher-37831160/?originalSubdomain=fr), Mourad Ben Cheikh, Mohamed Ben Guiza et Alia Gana** (UMR LADYSS) : 
 :arrow_forward:[ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md) </br>
