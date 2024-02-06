@@ -5,8 +5,12 @@ _Ce que le code a apporté dans ma pratique de la dataviz_ par [Thomas Ansart](h
 
 **Résumé** : Au regard d’une décennie d’expérience en dataviz, j’aimerais revenir sur les raisons qui m’ont poussé à l’acquisition progressive de compétences en code ainsi que sur plusieurs projets/outils représentatifs de l’évolution de ma pratique.*
 
-**Accès Zoom** </br>
-[Lien](https://cnrs.zoom.us/j/98075345088?pwd=cElvUy94dXpOTUZPMmJaVldmdS8rUT09) </br>
--ID de réunion : 980 7534 5088 | Code secret : AR9m@gis </br>
+**Suppprt de présentation** </br>
+
+https://sharedocs.huma-num.fr/wl/?id=RGD0WN7lx9Z0jYD8SSMKSxdWuYmRFx8T
+
+**Vidéo** </br>
+
+https://sharedocs.huma-num.fr/wl/?id=7w35yvuTOmwOBULuuBEJ9BcCWJwTMPrS
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
