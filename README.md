@@ -12,9 +12,13 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-...
+:arrow_forward: **Prochaine séance :** jeudi  21 mars 2024 : _titre à venir_, </br> 
+par **[Gaëlle SUTTON](https://gaellesuttoncarto.wordpress.com/)**, Cartographe indépendante (Animation Boris Mericskay)
 
 ## Webinaires à venir :calendar:
+- 4 avril 2024 : VIGLINO Jean Marc, IGN, [sur Ma carte (à préciser)](https://github.com/IGNF-Ma-carte) (animation Françoise Bahoken) </br> 
+- 14 mai 2024 : ALBERTELLI Marion, Geographie-Cités, titre à venir, (animation Françoise Bahoken) </br> 
+- 25 juin 2024 : JÉGOU Laurent, Univ. Toulouse 2/UMR Lisst, titre à venir, (animation Anne-Christine Bronner) </br> 
 
 ## Webinaires passés 
 
