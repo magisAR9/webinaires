@@ -1,4 +1,4 @@
-**Webinaire Carte Blanche #1. Mardi 8 novembre 2023 (12h30-13h30)** </br>
+**Webinaire Carte Blanche #1. Mardi 8 novembre 2022 (12h30-13h30)** </br>
 _Effets spéciaux pour questions spatiales_ par [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR CNRS, UMR PACTE) </br>
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_kerouanton.png)
