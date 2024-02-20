@@ -32,7 +32,7 @@ par **[Gaëlle SUTTON](https://gaellesuttoncarto.wordpress.com/)**, Cartographe 
 :arrow_forward:[ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md) </br>
 
 #### 5 Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf)
-:arrow_forward:[Gridviz: Une bibliothèque pour la cartographie en ligne de données carroyées ](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-graffuri.md) </br>
+:arrow_forward:[Gridviz: Une bibliothèque pour la cartographie en ligne de données carroyées ](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-gaffuri.md) </br>
 
 #### 7 septembre 2023 : **Jean-Philippe GAUTIER** : 
 :arrow_forward:[www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) </br>
