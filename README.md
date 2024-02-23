@@ -18,7 +18,7 @@ par **[Gaëlle SUTTON](https://gaellesuttoncarto.wordpress.com/)**, Cartographe 
 ## Webinaires à venir :calendar:
 - 4 avril 2024 : VIGLINO Jean Marc, IGN, [sur Ma carte (à préciser)](https://github.com/IGNF-Ma-carte) (animation Françoise Bahoken) </br> 
 - 14 mai 2024 : ALBERTELLI Marion, Geographie-Cités, titre à venir, (animation Françoise Bahoken) </br> 
-- 25 juin 2024 : Laurent JÉGOU, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz14-ljegou.md), (animation Anne-Christine Bronner) </br> 
+- 25 juin 2024 : Laurent JÉGOU, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_ljegou.md), (animation Anne-Christine Bronner) </br> 
 
 ## Webinaires passés 
 
