@@ -15,7 +15,7 @@ https://cnrs.zoom.us/j/96225408994?pwd=eFFNbTJPVXFPMFRQMUVKTitvSUo5dz09
 ID de réunion: 962 2540 8994
 Code secret: Yx64FP
 
-## Suppprt de présentation (à venir)
+## Support de présentation (à venir)
 
 ## Vidéo (à venir)
 
