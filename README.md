@@ -16,7 +16,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 par **[Gaëlle SUTTON](https://gaellesuttoncarto.wordpress.com/)**, Cartographe indépendante (Animation Boris Mericskay)
 
 ## Webinaires à venir :calendar:
-- 4 avril 2024 : VIGLINO Jean Marc, IGN, [sur Ma carte (à préciser)](https://github.com/IGNF-Ma-carte) (animation Françoise Bahoken) </br> 
+- 4 avril 2024 : VIGLINO Jean Marc, IGN, [sur ol-ext et cie.](https://github.com/Viglino/ol-ext) (animation Françoise Bahoken) </br> 
 - 14 mai 2024 : ALBERTELLI Marion, Geographie-Cités, titre à venir, (animation Françoise Bahoken) </br> 
 - 25 juin 2024 : Laurent JÉGOU, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_ljegou.md), (animation Anne-Christine Bronner) </br> 
 
