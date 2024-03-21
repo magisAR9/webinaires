@@ -12,15 +12,17 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-:arrow_forward: **Prochaine séance :** jeudi  21 mars 2024 : [Mon activité de cartographe indépendante](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz12_GaelleSutton.md), </br> 
-par **[Gaëlle SUTTON](https://gaellesuttoncarto.wordpress.com/)**, Cartographe indépendante (Animation Boris Mericskay)
+:arrow_forward: **Prochaine séance :**  jeudi  4 avril 2024 : **VIGLINO Jean Marc** Ingénieur IGN, Chef de secteur Express, Univ. Gustave Eiffel, IGN France. 
+[Information sur le Webinaire](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz14_viglino.md), Animation Françoise Bahoken </br> 
 
 ## Webinaires à venir :calendar:
-- 4 avril 2024 : VIGLINO Jean Marc, Ingénieur IGN, Chef de secteur Express, [ol-ext et cie.](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz14_viglino.md) (animation Françoise Bahoken) </br> 
 - 14 mai 2024 : ALBERTELLI Marion, Geographie-Cités, titre à venir, (animation Françoise Bahoken) </br> 
 - 25 juin 2024 : Laurent JÉGOU, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_ljegou.md), (animation Anne-Christine Bronner) </br> 
 
 ## Webinaires passés 
+
+#### #12. Mars 2024 : **Gaëlle SUTTON**, [Cartographe indépendante](https://gsutton.fr/) </br>
+:arrow_forward:[Mon activité de cartographe indépendante](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz12_GaelleSutton.md)
 
 #### #11. Février 2024 : **Thomas ANSART**, [Atelier de cartographie de Sciences Po](https://thomasansart.info/) </br>
 :arrow_forward:[Ce que le code a apporté dans ma pratique de la dataviz](https://magisar9.github.io/webinaires/cartogeoviz11-ansart.html)
