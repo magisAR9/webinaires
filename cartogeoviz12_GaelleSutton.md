@@ -17,6 +17,8 @@ Code secret: Yx64FP
 
 ## Support de présentation (à venir)
 
-## Vidéo (à venir)
+## Vidéo du Webinaire : 
+
+📺 https://sharedocs.huma-num.fr/wl/?id=WwIno7uVlMk9zT16Da4nGPNY9NBP2neQ 
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
