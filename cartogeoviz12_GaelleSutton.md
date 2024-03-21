@@ -1,4 +1,4 @@
-# Webinaire Carte Blanche #12. Jeudi 21 mars 2024 (12h30-13h30)
+# Webinaire Carte Blanche #12. Jeudi 21 mars 2024 
 
 ## Mon activité de cartographe indépendante avec [Gaëlle Sutton](https://gsutton.fr/)
 
