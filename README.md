@@ -12,7 +12,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-:arrow_forward: **Prochaine séance :**  jeudi  4 avril 2024 : **Jean-Marc VIGLINO** Ingénieur IGN, Chef de secteur Express, Univ. Gustave Eiffel/IGN France. </br>
+:arrow_forward: **Prochaine séance :**  jeudi  4 avril 2024 : [**Jean-Marc VIGLINO**](https://twitter.com/jmviglino), Ingénieur IGN, Univ. Gustave Eiffel/IGN France, </br> 
 [ol-ext et cie](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz13_viglino.md) (Animation Françoise Bahoken) </br> 
 
 ## Webinaires à venir :calendar:
