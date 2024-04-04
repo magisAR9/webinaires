@@ -14,8 +14,8 @@ par Jean-Marc VIGLINO, Ingénieur IGN, Chef de secteur Express, Univ. Gustave Ei
 </br> Enfin, je vous présenterai une application qui utilise ses ressources pour jouer sur une carte en ligne.
 
 **Accès Zoom** </br>
-[Lien](https://univ-eiffel.zoom.us/j/87680547058) </br>
--ID de réunion : 876 8054 7058 | Code secret : AR9m@gis</br>
+[Lien](https://univ-eiffel.zoom.us/j/89871486576) </br>
+-ID de réunion : 898 7148 6576 | Code secret : AR9m@gis</br>
 
 **Ressources** </br>
 - [github/Viglino](https://github.com/Viglino)
