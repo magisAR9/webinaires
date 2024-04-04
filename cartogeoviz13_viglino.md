@@ -13,9 +13,8 @@ par Jean-Marc VIGLINO, Ingénieur IGN, Chef de secteur Express, Univ. Gustave Ei
 **cours pour la _conception de cartes en lignes_**.
 </br> Enfin, je vous présenterai une application qui utilise ses ressources pour jouer sur une carte en ligne.
 
-**Accès Zoom** </br>
-[Lien](https://univ-eiffel.zoom.us/j/89871486576) </br>
--ID de réunion : 898 7148 6576 | Code secret : AR9m@gis</br>
+**ATTENTION CHAGEMENT DE LIEU RV SUR BBB** </br>
+Accès au webinaire : [Lien](https://bbb.unistra.fr/b/bro-r7m-ugj-wpp) - Code d'accès : 002585 </br>
 
 **Ressources** </br>
 - [github/Viglino](https://github.com/Viglino)
