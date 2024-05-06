@@ -12,14 +12,15 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-:arrow_forward: **Prochaine séance :**  jeudi  4 avril 2024 : [**Jean-Marc VIGLINO**](https://twitter.com/jmviglino), Ingénieur IGN, Univ. Gustave Eiffel/IGN France, </br> 
-[ol-ext et cie](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz13_viglino.md) (Animation Françoise Bahoken) </br> 
+:arrow_forward: **Prochaine séance :** 14 mai 2024 : **Marion ALBERTELLI**, post-doctorante, Univ. Gustave Eiffel/UMR LVMT & UMR 8504 Géographie-cités, Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare (animation Françoise Bahoken) </br> 
 
 ## Webinaires à venir :calendar:
-- 14 mai 2024 : **Marion ALBERTELLI**, post-doctorante, Univ. Gustave Eiffel/UMR LVMT, titre à venir, (animation Françoise Bahoken) </br> 
 - 25 juin 2024 : **Laurent JÉGOU**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_ljegou.md), (animation Anne-Christine Bronner) </br> 
 
 ## Webinaires passés 
+
+#### #13. Avril 2024 : [**Jean-Marc VIGLINO**](https://twitter.com/jmviglino), Ingénieur IGN, Univ. Gustave Eiffel/IGN France, </br> 
+:arrow_forward:[ol-ext et cie](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz13_viglino.md)
 
 #### #12. Mars 2024 : **Gaëlle SUTTON**, [Cartographe indépendante](https://gsutton.fr/) </br>
 :arrow_forward:[Mon activité de cartographe indépendante](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz12_GaelleSutton.md)
