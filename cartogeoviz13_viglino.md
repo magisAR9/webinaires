@@ -13,7 +13,7 @@ par Jean-Marc VIGLINO, Ingénieur IGN, Chef de secteur Express, Univ. Gustave Ei
 **cours pour la _conception de cartes en lignes_**.
 </br> Enfin, je vous présenterai une application qui utilise ses ressources pour jouer sur une carte en ligne.
 
-[Trace vidéo du webinaire](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1712226351790)</br>
+- 📺 [Video du webinaire](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1712226351790) </br>
 
 **Ressources** </br>
 - [github/Viglino](https://github.com/Viglino)
@@ -26,6 +26,5 @@ par Jean-Marc VIGLINO, Ingénieur IGN, Chef de secteur Express, Univ. Gustave Ei
 
 - [Vagabondage, jeu de rôle sur une carte](https://viglino.github.io/vagabondage/)
 
-- 📺 [Video du webinaire](à venir) </br>
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
