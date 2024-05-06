@@ -12,7 +12,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-:arrow_forward: **Prochaine séance :** 14 mai 2024 : **Marion ALBERTELLI**, post-doctorante, Univ. Gustave Eiffel/UMR LVMT & UMR 8504 Géographie-cités, Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare (animation Françoise Bahoken) </br> 
+:arrow_forward: **Prochaine séance :** 14 mai 2024 : **Marion ALBERTELLI**, post-doctorante, Univ. Gustave Eiffel/UMR LVMT & UMR 8504 Géographie-cités, [Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_malbertelli.md) (animation Françoise Bahoken) </br> 
 
 ## Webinaires à venir :calendar:
 - 25 juin 2024 : **Laurent JÉGOU**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_ljegou.md), (animation Anne-Christine Bronner) </br> 
