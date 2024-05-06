@@ -1,4 +1,4 @@
-**Webinaire Carte Blanche #14. Mardi 25 juin 2024 (12h30-13h30)** </br>
+**Webinaire Carte Blanche #15. Mardi 25 juin 2024 (12h30-13h30)** </br>
 _Des cartes et des couleurs : enquête sur les gradients_ par [Laurent Jegou](https://ljegou.github.io/), MCF, UMR LISST, Université Toulouse-Jean Jaurès</br>
 
 ![alt text](./visuel_ljegou2024.png)
