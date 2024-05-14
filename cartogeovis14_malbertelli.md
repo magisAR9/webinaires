@@ -11,6 +11,10 @@ véhicules motorisés individuels. L’un des résultats de cette recherche est 
 des pôles d’échanges des gares ferroviaires. Grâce à l’obtention d’une base de données permettant le suivi de V.T.C. réalisant des trajets à destination
 ou depuis cinq gares de la région parisienne sur une année (07.2017-07.2018), des cartes de chaleurs sur les parcours de V.T.C. dans les quartiers de gare
 ont pu être réalisées. Elles ont permis de visualiser leurs pratiques dans des quartiers très contraints par la densité de flux et de services de mobilité. 
+
+**Accès**
+[Lien](https://univ-eiffel.zoom.us/j/89871486576) </br>
+-ID de réunion : 898 7148 6576 | Code secret : AR9m@gis
   
 **Ressources** </br>
 
