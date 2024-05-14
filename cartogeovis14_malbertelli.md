@@ -18,6 +18,6 @@ ont pu être réalisées. Elles ont permis de visualiser leurs pratiques dans de
   
 **Ressources** </br>
 
-- 📺 [Video du webinaire](à venir)
+- 📺 [Video du webinaire](https://sharedocs.huma-num.fr/wl/?id=tvVe622MLDnYyPMWotNc13bvuxou7Ofn)
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
