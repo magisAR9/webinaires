@@ -17,7 +17,9 @@ ont pu être réalisées. Elles ont permis de visualiser leurs pratiques dans de
 -ID de réunion : 898 7148 6576 | Code secret : AR9m@gis
   
 **Ressources** </br>
+- ![image](https://github.com/magisAR9/webinaires/assets/13615192/aec667d0-bba6-4657-98cd-24d4eb59b9e2) [Support de la présentation](https://sharedocs.huma-num.fr/wl/?id=DH5OdW047FrPIpGVNREe1p4mc1kgQdVZ)
 
 - 📺 [Video du webinaire](https://sharedocs.huma-num.fr/wl/?id=tvVe622MLDnYyPMWotNc13bvuxou7Ofn)
+
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
