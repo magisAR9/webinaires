@@ -12,52 +12,57 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 ## Prochain Webinaire 
 
-:arrow_forward: **Prochaine séance :** 14 mai 2024 : **Marion ALBERTELLI**, post-doctorante, Univ. Gustave Eiffel/UMR LVMT & UMR 8504 Géographie-cités, [Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_malbertelli.md) (animation Françoise Bahoken) </br> 
+:arrow_forward: **Prochaine séance** :
+- lundi 3 juin 2024 : **[Frédéric ROULIER](https://www.u-picardie.fr/edysan/_listing-personnel/frederic-roulier/)**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne, [Autour de MapMorphy (titre provisoire)](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md) (Animation : à venir) </br> 
+
 
 ## Webinaires à venir :calendar:
-- 25 juin 2024 : **Laurent JÉGOU**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeovis15_ljegou.md), (animation Anne-Christine Bronner) </br> 
+- 25 juin 2024 : **[Laurent JÉGOU](https://lisst.univ-tlse2.fr/accueil/hn-equipes-de-recherche/centre-interdisciplinaire-detudes-urbaines-cieu/laurent-jegou#/)**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md), (animation Anne-Christine Bronner) </br> 
 
 ## Webinaires passés 
 
-#### #13. Avril 2024 : [**Jean-Marc VIGLINO**](https://twitter.com/jmviglino), Ingénieur IGN, Univ. Gustave Eiffel/IGN France, </br> 
-:arrow_forward:[ol-ext et cie](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz13_viglino.md)
+#### #14. Mai 2024 : [**Marion ALBERTELLI**](https://www.linkedin.com/in/marion-albertelli-06659749), post-doctorante, Univ. Gustave Eiffel/UMR LVMT & UMR 8504 Géographie-cités
+:arrow_forward: [Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_malbertelli.md)
 
-#### #12. Mars 2024 : **Gaëlle SUTTON**, [Cartographe indépendante](https://gsutton.fr/) </br>
-:arrow_forward:[Mon activité de cartographe indépendante](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz12_GaelleSutton.md)
+#### #13. Avril 2024 : [**Jean-Marc VIGLINO**](https://twitter.com/jmviglino), Ingénieur IGN, Univ. Gustave Eiffel/IGN France
+:arrow_forward: [ol-ext et cie](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz13_viglino.md)
 
-#### #11. Février 2024 : **Thomas ANSART**, [Atelier de cartographie de Sciences Po](https://thomasansart.info/) </br>
-:arrow_forward:[Ce que le code a apporté dans ma pratique de la dataviz](https://magisar9.github.io/webinaires/cartogeoviz11-ansart.html)
+#### #12. Mars 2024 : **Gaëlle SUTTON**, [Cartographe indépendante](https://gsutton.fr/)
+:arrow_forward: [Mon activité de cartographe indépendante](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz12_GaelleSutton.md)
 
-#### #10. Janvier 2024 : **Maxime MASSON**, [UMR LIUPPA, Equipe T2I](https://liuppa.univ-pau.fr/fr/organisation/equipes-de-recherche/equipe-t2i.html), </br>
-:arrow_forward:[TextBI : Une plateforme interactive pour la visualisation de données multidimensionnelles issues des réseaux sociaux](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz10-masson.md)
+#### #11. Février 2024 : **Thomas ANSART**, [Atelier de cartographie de Sciences Po](https://thomasansart.info/)
+:arrow_forward: [Ce que le code a apporté dans ma pratique de la dataviz](https://magisar9.github.io/webinaires/cartogeoviz11-ansart.html)
 
-#### #9. Novembre 2023 : **[Maher BEN REBAH](https://www.linkedin.com/in/ben-rebah-maher-37831160/?originalSubdomain=fr), Mourad Ben Cheikh, Mohamed Ben Guiza et Alia Gana** (UMR LADYSS) : 
-:arrow_forward:[ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md) </br>
+#### #10. Janvier 2024 : **Maxime MASSON**, [UMR LIUPPA, Equipe T2I](https://liuppa.univ-pau.fr/fr/organisation/equipes-de-recherche/equipe-t2i.html)
+:arrow_forward: [TextBI : Une plateforme interactive pour la visualisation de données multidimensionnelles issues des réseaux sociaux](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz10-masson.md)
+
+#### #9. Novembre 2023 : **[Maher BEN REBAH](https://www.linkedin.com/in/ben-rebah-maher-37831160/?originalSubdomain=fr), Mourad Ben Cheikh, Mohamed Ben Guiza et Alia Gana** (UMR LADYSS) 
+:arrow_forward: [ELYSSA : Cartographier et analyser le vote en Tunisie depuis 2011](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz9-benrebah.md) </br>
 
 #### #8. Octobre 2023 : **[Julien GAFFURI](https://github.com/jgaffuri)**, Eurostats, [@julgaf](https://twitter.com/julgaf)
-:arrow_forward:[Gridviz: Une bibliothèque pour la cartographie en ligne de données carroyées ](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-gaffuri.md) </br>
+:arrow_forward: [Gridviz: Une bibliothèque pour la cartographie en ligne de données carroyées ](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz8-gaffuri.md) </br>
 
-#### #7 Septembre 2023 : **Jean-Philippe GAUTIER** : 
-:arrow_forward:[www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) </br>
+#### #7 Septembre 2023 : **Jean-Philippe GAUTIER** 
+:arrow_forward: [www.cartostat.eu, une application web de cartographie statistique](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-gautier.md) </br>
 
-#### #6. Juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** (UMR LISST): 
-:arrow_forward:[De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
+#### #6. Juillet 2023 : **Najla TOUATI** et **Laurent JÉGOU** (UMR LISST) 
+:arrow_forward: [De la carte climatique au chorotype climatique : propositions de modèles graphiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz4-touatijegou.md)
 [Ressources](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1688636333439)
 
 #### #5. Mai 2023 : **[RAJERISON Mathieu](https://datagistips.hypotheses.org/author/datagistips)**, Cerema, [@datagistips](https://twitter.com/datagistips) </br> 
-:arrow_forward:[Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)
+:arrow_forward: [Génération (de) cartes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz6-rajerison.md)
 
-#### #4. Avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [CartoDouet](https://twitter.com/CartoDouet/) </br> 
-:arrow_forward:[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)*
+#### #4. Avril 2023 : **[DOUET Aurélie](https://geographie-cites.cnrs.fr/membres/aurelie-douet/)**, IE UMR Géographie-cités, [@CartoDouet](https://twitter.com/CartoDouet/) </br> 
+:arrow_forward: [na.rm=TRUE. Requête, interactivité et gestion des données manquantes](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz5-douet.md)*
 
 #### #3. Février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [@SoundCartograp1](https://twitter.com/SoundCartograp1) <br/> 
-:arrow_forward:[Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
+:arrow_forward: [Cartographie du paysage sonore urbain](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz3-aumond.md) </br>
 
 #### #2. Décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable)<br/>
-:arrow_forward:[Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)</br>
+:arrow_forward: [Faire des cartes statistiques avec Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)</br>
 
 #### #1. Novembre 2022 [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE) </br> 
-:arrow_forward:[Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)</br>
+:arrow_forward: [Effets spéciaux pour questions spatiales_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)</br>
 
 
 ## Intervenir dans le webinaire
