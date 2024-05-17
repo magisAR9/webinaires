@@ -1,11 +1,10 @@
 **Webinaire Carte Blanche #15. lundi 3 juin 2024 (12h30-13h30)** </br>
-_Autour de MapMorphy (titre provisoire)_ </br>
-par [Frédéric Roulier](https://www.u-picardie.fr/edysan/_listing-personnel/frederic-roulier/), MCF Université de Picardie Jules Verne/UMR 7058 EDYSAN.
+_[MapMorphy](https://mapmorphy.fr/), un logiciel de morphométrie géométrique pour les données cartographiques_ </br>
+par [Frédéric Roulier](https://www.u-picardie.fr/edysan/_listing-personnel/frederic-roulier/), MCF Université de Picardie Jules Verne/UMR CNRS 7058 EDYSAN.
 
-</br> </br> </br> </br> </br>
+![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_roulier.png)
 
-
-
+**Résumé** : MapMorphy est un logiciel conçu pour l’analyse morphométrique de plusieurs cartes géographiques ou structures spatiales. Il propose à l’utilisateur une interface graphique simple d’utilisation pour la comparaison de deux ou de plusieurs conformations cartographiques correspondant par exemple à des représentations cognitives de l’espace, à des cartes anciennes ou, d’une manière générale, à des structures codées selon des points homologues.
 
 **Accès au webinaire**
 - [Lien](https://univ-eiffel.zoom.us/j/89871486576) </br>
