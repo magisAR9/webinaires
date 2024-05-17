@@ -13,7 +13,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 ## Prochain Webinaire 
 
 :arrow_forward: **Prochaine séance** :
-- lundi 3 juin 2024 : **[Frédéric ROULIER](https://www.u-picardie.fr/edysan/_listing-personnel/frederic-roulier/)**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne, [Autour de MapMorphy (titre provisoire)](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md) (Animation : à venir) </br> 
+- lundi 3 juin 2024 : **[Frédéric ROULIER](https://www.u-picardie.fr/edysan/_listing-personnel/frederic-roulier/)**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne, [MapMorphy, un logiciel de morphométrie géométrique pour les données cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md) (Animation : à venir) </br> 
 
 
 ## Webinaires à venir :calendar:
