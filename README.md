@@ -13,13 +13,19 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 ## Prochain Webinaire 
 
 :arrow_forward: **Prochaine séance** :
-- lundi 3 juin 2024 : **[Frédéric ROULIER](https://www.u-picardie.fr/edysan/_listing-personnel/frederic-roulier/)**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne, [MapMorphy, un logiciel de morphométrie géométrique pour les données cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md) (Animation : à venir) </br> 
+- 25 juin 2024 : **[Laurent JÉGOU](https://lisst.univ-tlse2.fr/accueil/hn-equipes-de-recherche/centre-interdisciplinaire-detudes-urbaines-cieu/laurent-jegou#/)**, MCF, UMR LISST, Université Toulouse-Jean Jaurès,</br>
+[Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md) (animation Anne-Christine Bronner) </br> 
 
 
 ## Webinaires à venir :calendar:
-- 25 juin 2024 : **[Laurent JÉGOU](https://lisst.univ-tlse2.fr/accueil/hn-equipes-de-recherche/centre-interdisciplinaire-detudes-urbaines-cieu/laurent-jegou#/)**, MCF, UMR LISST, Université Toulouse-Jean Jaurès, [Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md), (animation Anne-Christine Bronner) </br> 
+- septembre 2024 : **Lucas DESTREM** (à confirmer). (animation Boris MERICSKAY) </br>
+- octobre 2024 : **Jean-Marc VIGLINO**, Univ. Gustave Eiffel/IGN
+- novembre 2024 : **Ronan YSEBAERT**, CNRS/Riate
 
 ## Webinaires passés 
+
+#### #15 Juin 2024 : **[Frédéric ROULIER](https://www.u-picardie.fr/edysan/_listing-personnel/frederic-roulier/)**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne,
+:arrow_forward: [MapMorphy, un logiciel de morphométrie géométrique pour les données cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md)
 
 #### #14. Mai 2024 : [**Marion ALBERTELLI**](https://www.linkedin.com/in/marion-albertelli-06659749), post-doctorante, Univ. Gustave Eiffel/UMR LVMT & UMR 8504 Géographie-cités
 :arrow_forward: [Cartographier et analyser les pratiques des V.T.C. dans les quartiers de gare](https://github.com/magisAR9/webinaires/blob/main/cartogeovis14_malbertelli.md)
