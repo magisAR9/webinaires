@@ -9,8 +9,6 @@ _Des cartes et des couleurs : enquête sur les gradients_ par [Laurent Jegou](ht
 Le préprint : [https://hal.science/hal-04270875](https://hal.science/hal-04270875)
 Le carnet interactif : [https://observablehq.com/@ljegou/color-gradients-values-adapted-lum](https://observablehq.com/@ljegou/color-gradients-values-adapted-lum)
 
-**Accès au webinaire**
-- [Lien](https://bbb.unistra.fr/b/bro-r7m-ugj-wpp) </br>
-- Code d'accès : 002585 </br>
+[Race video du webinaire](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1719308957319)
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
