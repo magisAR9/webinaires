@@ -13,16 +13,18 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 ## Prochain Webinaire 
 
 :arrow_forward: **Prochaine séance** :
-- 25 juin 2024 : **[Laurent JÉGOU](https://lisst.univ-tlse2.fr/accueil/hn-equipes-de-recherche/centre-interdisciplinaire-detudes-urbaines-cieu/laurent-jegou#/)**, MCF, UMR LISST, Université Toulouse-Jean Jaurès,</br>
-[Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md) (animation Anne-Christine Bronner) </br> 
+
 
 
 ## Webinaires à venir :calendar:
-- septembre 2024 : **Lucas DESTREM** (à confirmer). (animation Boris MERICSKAY) </br>
-- octobre 2024 : **Jean-Marc VIGLINO**, Univ. Gustave Eiffel/IGN
-- novembre 2024 : **Ronan YSEBAERT**, CNRS/Riate
+- #17 septembre 2024 : **Lucas DESTREM** (à confirmer). (animation Boris MERICSKAY) </br>
+- #18 15 octobre 2024 : **Jean-Marc VIGLINO**, MaCarte, Univ. Gustave Eiffel/IGN : Technologies autour de MaCarte. (animation Françoise BAHOKEN) </br>
+- #19 12 novembre 2024 : **Ronan YSEBAERT**, Univ. Paris Cité/Riate : Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives. (animation Françoise BAHOKEN) </br>
 
 ## Webinaires passés 
+
+#### #16 25 juin 2024 : **[Laurent JÉGOU](https://lisst.univ-tlse2.fr/accueil/hn-equipes-de-recherche/centre-interdisciplinaire-detudes-urbaines-cieu/laurent-jegou#/)**, MCF, UMR LISST, Université Toulouse-Jean Jaurès,</br>
+[Des cartes et des couleurs : enquête sur les gradients](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz16-ljegou.md) </br> 
 
 #### #15 Juin 2024 : **[Frédéric ROULIER](https://www.u-picardie.fr/edysan/_listing-personnel/frederic-roulier/)**, MCF, UMR 7058 EDYSAN, Université de Picardie Jules Verne,
 :arrow_forward: [MapMorphy, un logiciel de morphométrie géométrique pour les données cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz15-roulier.md)
