@@ -1,8 +1,11 @@
 **Webinaire Carte Blanche #19. mardi 12 novembre 2024 (12h30-13h30)** </br>
 _Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives_ </br>
-par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/)1, Louis Laurian2, Marianne Guerois3 et Malika Madelin4
+par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/) [1], Louis Laurian [2], Marianne Guerois [3] et Malika Madelin [4]
 
+</br>
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_ysebaert.png)
+
+</br>
 
 **Résumé** : Cette communication présente les principaux résultats issus de la construction d’une plateforme de géovisualisation
 des hébergements Airbnb en région parisienne. Ce site web a été développé pour rendre accessible une collection de cartes et graphiques
@@ -16,16 +19,14 @@ pérénisation de la démarche et son extension à d’éventuels autres terrain
 - 📺 [Video du webinaire](à venir) </br>
 
 **Ressources** : 
-- La plateforme de visualisation (https://riate-airbnb.gitpages.huma-num.fr/website/)
-- Locations meublées touristiques dans le Grand Paris, colloque organisé conjointement par le RIATE
-et l’APUR (septembre 2023)  (https://riate-airbnb.gitpages.huma-num.fr/colloque/)
+- [Riate airbnb](https://riate-airbnb.gitpages.huma-num.fr/website/) : la plateforme de visualisation 
+- [Locations meublées touristiques dans le Grand Paris](https://riate-airbnb.gitpages.huma-num.fr/colloque/) : colloque organisé conjointement par le [RIATE](https://riate.cnrs.fr/) et l’[APUR](https://www.apur.org/fr) (septembre 2023)  
 
-
-Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
 
 ______________________
-1 – Université Paris Cité, UAR RIATE
-2 – CNRS, UAR RIATE
-3 – Université Paris Cité, UMR Géographie-Cités
-4 – Université Paris Cité, UMR PRODIG
+[1] Université Paris Cité, UAR RIATE </br>
+[2] CNRS, UAR RIATE </br>
+[3] Université Paris Cité, UMR Géographie-Cités </br>
+[4] Université Paris Cité, UMR PRODIG </br>
 
+Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
