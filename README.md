@@ -17,7 +17,7 @@ Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Chri
 
 
 ## Webinaires à venir :calendar:
-- #17 septembre 2024 : **Lucas DESTREM** (à confirmer). (animation Boris MERICSKAY) </br>
+- #02 octobre 2024 : **Lucas DESTREM** [_Geographisme](https://www.lucasdestrem.com/). (animation Boris MERICSKAY) </br>
 - #18 15 octobre 2024 : **Jean-Marc VIGLINO**, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html), Univ. Gustave Eiffel/IGN : Technologies autour de MaCarte. (animation Françoise BAHOKEN) </br>
 - #19 12 novembre 2024 : **Ronan YSEBAERT**, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) </br>
 
