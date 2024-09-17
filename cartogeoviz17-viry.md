@@ -15,8 +15,10 @@ Par [Matthieu Viry](https://mthh.github.io/portfolio/), ingénieur de recherche 
 Ce webinaire s'articulera en 3 principaux temps : un retour sur les choix effectués et ayant permis d'aboutir à une nouvelle version de l'application, un cas d'étude réel (réalisation d'une carte à partir de données disponibles en Open Data) puis une présentation des nombreuses perspectives d'évolution (ajouts de nouvelles fonctionnalités d'analyse statistiques, etc.).
 
 **Accès Zoom** </br>
-- [Lien](https://cnrs.zoom.us/j/96097221707?pwd=rEf3u8IrvI9YS17iRWNjwcuE96j1GF.1) </br>
--ID de réunion : 960 9722 1707 | Code secret : pvXM12</br>
+
+- [Lien](https://cnrs.zoom.us/j/96097221707?pwd=rEf3u8IrvI9YS17iRWNjwcuE96j1GF.1)
+
+-ID de réunion : 960 9722 1707 | Code secret : pvXM12
 
 **Ressources** : 
 
@@ -24,7 +26,7 @@ Ce webinaire s'articulera en 3 principaux temps : un retour sur les choix effect
 
 - [Documentation](https://magrit.cnrs.fr/documentation.html) 
 
-- [Dépot Githubmentation](https://github.com/riatelab/magrit) 
+- [Dépot Github](https://github.com/riatelab/magrit) 
 
 <hr/>
 
