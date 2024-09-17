@@ -14,7 +14,7 @@ Par [Matthieu Viry](https://mthh.github.io/portfolio/), ingénieur de recherche 
 **Résumé** : Ce webinaire présente l'application de cartographie thématique Magrit et en particulier les nouveautés offertes par la version 2 de l'application, sortie en juillet 2024 : nouvelles fonctionnalités relatives à la préparation des données, nouvelles possibilités de représentations, personnalisation accrue des cartes réalisées, etc.
 Ce webinaire s'articulera en 3 principaux temps : un retour sur les choix effectués et ayant permis d'aboutir à une nouvelle version de l'application, un cas d'étude réel (réalisation d'une carte à partir de données disponibles en Open Data) puis une présentation des nombreuses perspectives d'évolution (ajouts de nouvelles fonctionnalités d'analyse statistiques, etc.).
 
-**Accès Zoom** </br>
+**Accès Zoom**
 
 - [Lien](https://cnrs.zoom.us/j/96097221707?pwd=rEf3u8IrvI9YS17iRWNjwcuE96j1GF.1)
 
