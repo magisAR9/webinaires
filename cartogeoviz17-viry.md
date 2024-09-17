@@ -30,6 +30,6 @@ Ce webinaire s'articulera en 3 principaux temps : un retour sur les choix effect
 
 <hr/>
 
-📺 [Video du webinaire](à venir) </br>
+📺 [Video du webinaire](à venir)
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
