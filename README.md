@@ -20,7 +20,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Webinaires passés
 
-#### #17. Septembre 2024 : [**Matthieu Viry**](https://mthh.github.io/portfolio/), Ingénieur de recherche en informatique, UMS RIATE,</br>
+#### #17. Septembre 2024 : [**Matthieu Viry**](https://mthh.github.io/portfolio/), Ingénieur de recherche en informatique, UAR RIATE,</br>
 :arrow_forward: [Magrit Nouvelle version](https://magisar9.github.io/webinaires/cartogeoviz17-viry.html) </br>
 
 #### #16. Juin 2024 : [**Laurent JÉGOU**](https://lisst.univ-tlse2.fr/accueil/hn-equipes-de-recherche/centre-interdisciplinaire-detudes-urbaines-cieu/laurent-jegou#/), MCF, UMR LISST, Université Toulouse-Jean Jaurès,</br>
