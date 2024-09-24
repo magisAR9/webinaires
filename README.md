@@ -7,19 +7,18 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 ## Format :information_desk_person:
 
 **Durée :** Á partir de 12h30, pour 30mn de présentation en mode visioconférence + 30 mn d'échanges et de discussions. </br> Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Christine, Boris, Etienne, Françoise, Nicolas ou Robin).
-</br>
+<br/>
 
 ## Prochain Webinaire
 
-:arrow_forward: **Prochaine séance** : Mercredi 02 octobre 2024 : **Lucas DESTREM** [Expérimentations cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md). (animation Boris MERICSKAY) </br> 
-</br>
+:arrow_forward: **Prochaine séance** : Mercredi 02 octobre 2024 : **Lucas DESTREM** [Expérimentations cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md). (animation Boris MERICSKAY) <br/> 
+<br/>
 
 ## Webinaires à venir :calendar:
 
 -   #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html), Univ. Gustave Eiffel/IGN : Technologies autour de MaCarte. (animation Françoise BAHOKEN) </br>
--   #20 - 12 novembre 2024 : **Ronan YSEBAERT**, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) </br>
-
-</br>
+-   #20 - 12 novembre 2024 : **Ronan YSEBAERT**, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) <br/>
+<br/>
 
 ## Webinaires passés
 
