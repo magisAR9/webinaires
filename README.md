@@ -89,6 +89,8 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 :arrow_forward: [Effets spéciaux pour questions spatiales\_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)</br>
 
+</br>
+
 ## Intervenir dans le webinaire
 
 Si vous êtes intéressé.e.s à venir présenter vos travaux ou expérimentations cartographiques vous êtes les bienvenus ! Que vous soyez dans le monde académique, dans le secteur privé ou passionné de cartographie et de géovisualisation contactez le collectif de l'AR9 :[\@ collectif de l'AR](mailto:robin.cura@parisgeo.cnrs.fr,francoise.bahoken@univ-eiffel.fr,anne-christine.bronner@misha.fr,etienne.come@univ-eiffel.fr,boris.mericskay@univ-rennes2.fr,nicolas.lambert@cnrs.fr).
