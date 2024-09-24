@@ -1,20 +1,21 @@
-**Webinaire Carte Blanche #18. mardi 15 octobre 2024 (12h30-13h30)** </br>
-_Ma Carte_ </br>
-par Jean-Marc VIGLINO, [@jmviglino](https://twitter.com/jmviglino), Ingénieur IGN, Chef de secteur Express, Univ. Gustave Eiffel, IGN France  </br> </br>
+**Webinaire Carte Blanche #18. Mercredi 02 octobre 2024 (12h30-13h30)** </br>
+_Expérimentations cartographiques_ </br>
+par [Lucas DESTREM](https://www.lucasdestrem.com/), Géographe et cartographe  </br> </br>
 
+<hr>
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_Viglino2024.png)
+![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/AfficheDestrem.jpg)
 
-**Résumé** : Depuis 2008, l’[IGN](https://www.ign.fr/) développe pour [Édugéo](https://www.edugeo.fr/), en partenariat avec l’Éducation Nationale, des outils de cartographie
-et de [publication de cartes en ligne](https://macarte.ign.fr/). Depuis 2023, ces outils sont disponibles en [Opensource sur Github](https://github.com/IGNF-Ma-carte).
-Je vous propose de faire un tour d’horizon des solutions mises en place et de vous présenter les outils disponibles pour la création des cartes et de widgets carto
-à intégrer sur vos sites.
+**Résumé** : Passionné par les questions patrimoniales, intéressé par les projets et politiques de développement local et notamment par les thématiques de la culture, de la démocratie, des mobilités et de la communication institutionnelle et territoriale, j'ai créé la micro-entreprise GéoGraphismes, qui me permet d'assurer des missions tout à fait hybrides, au croisement de la cartographie/infographie et de la production de contenus de vulgarisation et médiation. Parallèlement, je mène régulièrement différents projets éditoriaux. 
+
+**Informations de connexion** : https://cnrs.zoom.us/j/92796089763?pwd=KKTsdZZuuRaghh6toTaVP4ID4llmx0.1 </br>
+ID de réunion: 927 9608 9763 </br>
+Code secret: fi9sM4
+
+**Replay** </br>
 
 - 📺 [Video du webinaire](à venir) </br>
 
-**Ressources** </br>
-- [github/Viglino](https://github.com/Viglino)
-- [Ma carte IGN](https://macarte.ign.fr/)
-- Github du projet [./IGNF-Ma-carte](https://github.com/IGNF-Ma-carte)
+
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
