@@ -7,6 +7,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 ## Format :information_desk_person:
 
 **Durée :** Á partir de 12h30, pour 30mn de présentation en mode visioconférence + 30 mn d'échanges et de discussions. </br> Le webinaire est animé et modéré par l'un.e des porteurs de l'AR 9 (Anne-Christine, Boris, Etienne, Françoise, Nicolas ou Robin).
+</br>
 
 ## Prochain Webinaire
 
