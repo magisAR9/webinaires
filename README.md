@@ -10,7 +10,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire
 
-:arrow_forward: **Prochaine séance** : Mercredi 02 octobre 2024 : **Lucas DESTREM** [Expérimentations cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md). (animation Boris MERICSKAY) </br>
+:arrow_forward: **Prochaine séance** : Mercredi 02 octobre 2024 : **Lucas DESTREM** [Expérimentations cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md). (animation Boris MERICSKAY) </br> </br>
 
 
 ## Webinaires à venir :calendar:
