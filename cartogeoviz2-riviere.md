@@ -11,6 +11,6 @@ _Faire des cartes statistiques avec Observable Plot_ par [Philippe RIVIERE](http
 - [Observable Notebooks](https://observablehq.com/collection/@observablehq/plot)</br>
 - [Cheatsheets](https://observablehq.com/collection/@observablehq/plot-cheatsheets)</br>
 
-📺 [Vidéo du Webinaire](https://pewflix.com/w/nppUsvZNn6Y3mE5XwmK7gT) </br>
+📺 [Vidéo du Webinaire](https://sharedocs.huma-num.fr/wl/?id=cw6jUGyiTn1C1Z50eP6G1D7mgODWSPbY) </br>
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
