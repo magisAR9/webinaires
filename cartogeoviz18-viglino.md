@@ -1,6 +1,9 @@
-**Webinaire Carte Blanche #18. mardi 15 octobre 2024 (12h30-13h30)** </br>
-_Ma Carte_ </br>
-par Jean-Marc VIGLINO, [@jmviglino](https://twitter.com/jmviglino), Ingénieur IGN, Chef de secteur Express, Univ. Gustave Eiffel, IGN France  </br> </br>
+**Webinaire Carte blanche #18. mardi 15 octobre 2024 (12h30-13h30)** 
+
+_Technologies autour de Ma Carte_ 
+
+par Jean-Marc VIGLINO, [@jmviglino](https://twitter.com/jmviglino), Ingénieur IGN, Chef de secteur Express, Univ. Gustave Eiffel, IGN France.
+
 
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_Viglino2024.png)
