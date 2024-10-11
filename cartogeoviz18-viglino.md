@@ -13,7 +13,15 @@ et de [publication de cartes en ligne](https://macarte.ign.fr/). Depuis 2023, ce
 Je vous propose de faire un tour d’horizon des solutions mises en place et de vous présenter les outils disponibles pour la création des cartes et de widgets carto
 à intégrer sur vos sites.
 
-- 📺 [Video du webinaire](à venir) </br>
+**Accès Zoom**
+
+- [Lien](https://univ-eiffel.zoom.us/j/89871486576)
+
+- ID de réunion : 898 7148 6576
+- Code secret : AR9m@gis 
+
+
+📺 [Video du webinaire](à venir) </br>
 
 **Ressources** </br>
 - [github/Viglino](https://github.com/Viglino)
