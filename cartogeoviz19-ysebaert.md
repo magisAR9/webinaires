@@ -11,6 +11,13 @@ par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/) [1], Louis Laur
 
 [1] Université Paris Cité, UAR RIATE - [2] CNRS, UAR RIATE - [3] Université Paris Cité, UMR Géographie-Cités - [4] Université Paris Cité, UMR PRODIG
 
+**Accès Zoom**
+
+- [Lien](https://univ-eiffel.zoom.us/j/89871486576)
+
+- ID de réunion : 898 7148 6576
+- Code secret : AR9m@gis 
+
 **Ressources** : 
 - [Riate airbnb](https://riate-airbnb.gitpages.huma-num.fr/website/) : la plateforme de visualisation 
 - [Locations meublées touristiques dans le Grand Paris](https://riate-airbnb.gitpages.huma-num.fr/colloque/) : colloque organisé conjointement par le [RIATE](https://riate.cnrs.fr/) et l’[APUR](https://www.apur.org/fr) (septembre 2023)
