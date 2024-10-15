@@ -20,9 +20,9 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Webinaires passés
 
-#### Carte blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html), Univ. Gustave Eiffel/IGN : Technologies autour de MaCarte. (animation Françoise BAHOKEN) <br/>
+#### Carte blanche #19. 15 octobre 2024 : **Jean-Marc VIGLINO**, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html), Univ. Gustave Eiffel/IGN : Technologies autour de MaCarte. (animation Françoise BAHOKEN) 
 
-#### Carte blanche #18. octobre 2024 : **Lucas DESTREM, Cartographe indépendant,** <br/>
+#### Carte blanche #18. 2 octobre 2024 : **Lucas DESTREM, Cartographe indépendant,** <br />
 :arrow_forward: [Expérimentations cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md) <br/> 
 
 #### Carte blanche #17. Septembre 2024 : [**Matthieu Viry**](https://mthh.github.io/portfolio/), Ingénieur de recherche en informatique, UAR RIATE, <br/>
