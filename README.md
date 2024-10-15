@@ -11,16 +11,16 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire
 
-- Carte blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html), Univ. Gustave Eiffel/IGN : Technologies autour de MaCarte. (animation Françoise BAHOKEN) <br/>
+- Carte blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) <br/>
 
 ## Webinaires à venir :calendar:
 
-- Carte blanche #20 - 12 novembre 2024 : **Ronan YSEBAERT**, [Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html), Univ. Paris Cité/UAR RIATE. (animation Françoise BAHOKEN) <br/>
-
-- Carte blanche #21 - décembre 2024 : _en cours de programmation_
+- Carte blanche #21 - décembre 2024 : _pas de webinaire_
 
 
 ## Webinaires passés
+
+#### Carte blanche #19 - 15 octobre 2024 : **Jean-Marc VIGLINO**, [Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html), Univ. Gustave Eiffel/IGN : Technologies autour de MaCarte. (animation Françoise BAHOKEN) <br/>
 
 #### Carte blanche #18. octobre 2024 : **Lucas DESTREM, Cartographe indépendant,** <br/>
 :arrow_forward: [Expérimentations cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md) <br/> 
