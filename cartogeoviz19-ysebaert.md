@@ -11,12 +11,10 @@ par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/) [1], Louis Laur
 
 [1] Université Paris Cité, UAR RIATE - [2] CNRS, UAR RIATE - [3] Université Paris Cité, UMR Géographie-Cités - [4] Université Paris Cité, UMR PRODIG
 
-**Accès Zoom**
+**Accès bbb**
 
-- [Lien](https://univ-eiffel.zoom.us/j/89871486576)
-
-- ID de réunion : 898 7148 6576
-- Code secret : AR9m@gis 
+- [Lien](https://bbb.unistra.fr/b/bro-r7m-ugj-wpp)
+- Code super secret : 002585 
 
 **Ressources** : 
 - [Riate airbnb](https://riate-airbnb.gitpages.huma-num.fr/website/) : la plateforme de visualisation 
@@ -24,6 +22,6 @@ par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/) [1], Louis Laur
 - [github/rysebaert](https://github.com/rysebaert)
 - [github/riatelab](https://github.com/riatelab)
 
-📺 [Video du webinaire](à venir) </br>
+📺 [Video du webinaire](à venir) <br />
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
