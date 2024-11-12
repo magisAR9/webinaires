@@ -11,7 +11,7 @@ par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/) [1], Louis Laur
 
 [1] Université Paris Cité, UAR RIATE - [2] CNRS, UAR RIATE - [3] Université Paris Cité, UMR Géographie-Cités - [4] Université Paris Cité, UMR PRODIG
 
-- 📺 [Video du webinaire](https://podv2.unistra.fr/video/57098-ar920mp4/) </br>
+- 📺 [Video du webinaire](https://podv2.unistra.fr/video/57098-ar920mp4/) <br />
 
 **Ressources** : 
 - [Riate airbnb](https://riate-airbnb.gitpages.huma-num.fr/website/) : la plateforme de visualisation 
