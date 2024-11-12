@@ -1,4 +1,4 @@
-**Webinaire Carte Blanche #19. mardi 12 novembre 2024 (12h30-13h30)** 
+**Webinaire Carte Blanche #20. mardi 12 novembre 2024 (12h30-13h30)** 
 
 _Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives_ 
 
@@ -11,10 +11,7 @@ par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/) [1], Louis Laur
 
 [1] Université Paris Cité, UAR RIATE - [2] CNRS, UAR RIATE - [3] Université Paris Cité, UMR Géographie-Cités - [4] Université Paris Cité, UMR PRODIG
 
-**Accès bbb**
-
-- [Lien](https://bbb.unistra.fr/b/bro-r7m-ugj-wpp)
-- Code super secret : 002585 
+- 📺 [Video du webinaire](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1712226351790) </br>
 
 **Ressources** : 
 - [Riate airbnb](https://riate-airbnb.gitpages.huma-num.fr/website/) : la plateforme de visualisation 
