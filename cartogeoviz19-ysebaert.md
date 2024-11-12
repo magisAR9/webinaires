@@ -11,14 +11,12 @@ par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/) [1], Louis Laur
 
 [1] Université Paris Cité, UAR RIATE - [2] CNRS, UAR RIATE - [3] Université Paris Cité, UMR Géographie-Cités - [4] Université Paris Cité, UMR PRODIG
 
-- 📺 [Video du webinaire](https://bbb-prod-rp.unistra.fr/playback/presentation/2.3/99470eae0814dfe5c9cca017ea6e2edc6966dada-1712226351790) </br>
+- 📺 [Video du webinaire](https://podv2.unistra.fr/video/57098-ar920mp4/) </br>
 
 **Ressources** : 
 - [Riate airbnb](https://riate-airbnb.gitpages.huma-num.fr/website/) : la plateforme de visualisation 
 - [Locations meublées touristiques dans le Grand Paris](https://riate-airbnb.gitpages.huma-num.fr/colloque/) : colloque organisé conjointement par le [RIATE](https://riate.cnrs.fr/) et l’[APUR](https://www.apur.org/fr) (septembre 2023)
 - [github/rysebaert](https://github.com/rysebaert)
 - [github/riatelab](https://github.com/riatelab)
-
-📺 [Video du webinaire](à venir) <br />
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
