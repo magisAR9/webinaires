@@ -14,9 +14,9 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Webinaires à venir :calendar:
 
-<br />
-- Carte blanche #21 - 2 décembre 2025
-- Carte blanche #22 - 23 janvier 2026, *A propos de sémiologie graphique*, Marie-Laure Trémélo, Laboratoire ESPACE et Christine Zanin, Université Paris-Diderot/Géographie-cités
+
+- Carte blanche #21 - 2 décembre 2025 <br />
+- Carte blanche #22 - 21 janvier 2026, *A propos de sémiologie graphique*, Marie-Laure Trémélo, Laboratoire ESPACE et Christine Zanin, Université Paris-Diderot/Géographie-cités
 
 
 ## Webinaires passés
