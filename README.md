@@ -10,13 +10,12 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 <br/>
 
 ## Prochain Webinaire
-
+* Carte blanche #21 - 19 novembre 2025 : **Lucile Pillot**, Ingénieure d'etudes, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Fançoise BAHOKEN
 
 ## Webinaires à venir :calendar:
 
-
-- Carte blanche #21 - 2 décembre 2025 <br />
-- Carte blanche #22 - 21 janvier 2026, *A propos de sémiologie graphique*, Marie-Laure Trémélo, Laboratoire ESPACE et Christine Zanin, Université Paris-Diderot/Géographie-cités
+* Carte blanche #22 - 02 décembre 2025 : **invité.e à (re)préciser**, _Présentation de [Cartabl](https://atlas-bleu.cnrs.fr/presentation-cartabl/), le logiciel de cartographie interactive de L'Atlas Bleu_, animation : Boris MERICSKAY
+* Carte blanche #23 - 21 janvier 2026 : **Marie-Laure Trémélo** (Ingénieure d'études, UMR ESPACE) et **Christine Zanin** (Professeure des Universités, Université Paris-Diderot/Géographie-cités) : _A propos de sémiologie graphique_, animation : Anne-Christine BRONNER
 
 
 ## Webinaires passés
