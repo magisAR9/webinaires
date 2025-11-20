@@ -17,7 +17,9 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 * Carte blanche #22 - 21 janvier 2026 : **Marie-Laure TRÉMÉLO** (Ingénieure d'études, UMR ESPACE) et **Christine ZANIN** (Professeure des Universités, Université Paris-Diderot/Géographie-cités) : _A propos de sémiologie graphique_, animation : Anne-Christine BRONNER
   
 * Carte blanche #23 - REPORTE : **Lucile PILLOT**, Ingénieure d'etudes, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Fançoise BAHOKEN
-
+  
+* Carte blanche #2 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche, Système d'Information de la Ville Durable et du Bâtiment Innovant [SI PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi)
+  
 ## Webinaires passés
 
 ▶️ Carte blanche #20. 12 novembre 2024 : **Ronan YSEBAERT**,  Univ. Paris Cité/UAR RIATE, *[Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html)*
