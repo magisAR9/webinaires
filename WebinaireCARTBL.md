@@ -2,14 +2,14 @@
 
 ## Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil [CartABl](https://letg.cnrs.fr/cartabl-outil/)
 
-•	Laurent Pourinet, IE Cnrs, Cartographe d’édition, LETG UMR 6554
-•	Olivier Aubert, Mcf Associé Nantes Université, IR LS2N UMR 6004
-•	Julie Pierson, IE Cnrs Géomaticienne, LETG UMR 6554
-•	Davien Blanc, IE Cnrs, Ingénierie logicielle et base de données, LETG UMR 6554
+*Laurent Pourinet, IE Cnrs, Cartographe d’édition, LETG UMR 6554
+*Olivier Aubert, Mcf Associé Nantes Université, IR LS2N UMR 6004
+*Julie Pierson, IE Cnrs Géomaticienne, LETG UMR 6554
+*Davien Blanc, IE Cnrs, Ingénierie logicielle et base de données, LETG UMR 6554
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/Cartbvisuel.png)
 
-Infos de connexion : 
+### Infos de connexion : 
 
 https://cnrs.zoom.us/j/91780565150?pwd=73DFMTLMHanXs5RoPtE0K3fYXKbfCH.1
 
