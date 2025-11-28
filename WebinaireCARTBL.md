@@ -17,7 +17,8 @@ Code secret: 9Db2Ud
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/Cartbvisuel.png)
 
 
-### Résumé : Tirer parti de l’édition numérique en intégrant de l’interactivité dans les documents graphiques (cartes, datavisualisations). Fabriquer des documents de manière simple sans coder. Voilà ce que permet CartABl en mettant à disposition, en accès libre et gratuit, un logiciel d’intégration d’interactivité embarquée dans les fichiers vectoriels SVG produits avec un logiciel de dessin. L’objectif de cette Carte Blanche de l’AR9 du GDR Magis est de présenter CartABl développé en mode design collaboratif à LETG (UMR 6554 Cnrs) et de montrer des exemples de productions. Notre démarche exploratoire permet d’aborder une méthode innovante de scénarisation graphique et interroge sur l’interactivité au service de la valorisation scientifique. Nous vous proposons un échange autour de ces thématiques.
+### Résumé : 
+Tirer parti de l’édition numérique en intégrant de l’interactivité dans les documents graphiques (cartes, datavisualisations). Fabriquer des documents de manière simple sans coder. Voilà ce que permet CartABl en mettant à disposition, en accès libre et gratuit, un logiciel d’intégration d’interactivité embarquée dans les fichiers vectoriels SVG produits avec un logiciel de dessin. L’objectif de cette Carte Blanche de l’AR9 du GDR Magis est de présenter CartABl développé en mode design collaboratif à LETG (UMR 6554 Cnrs) et de montrer des exemples de productions. Notre démarche exploratoire permet d’aborder une méthode innovante de scénarisation graphique et interroge sur l’interactivité au service de la valorisation scientifique. Nous vous proposons un échange autour de ces thématiques.
 
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
