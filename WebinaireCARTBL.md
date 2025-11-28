@@ -4,8 +4,8 @@
 
 https://cnrs.zoom.us/j/91780565150?pwd=73DFMTLMHanXs5RoPtE0K3fYXKbfCH.1
 
-ID de réunion: 917 8056 5150
-Code secret: 9Db2Ud
+* ID de réunion: 917 8056 5150
+* Code secret: 9Db2Ud
 
 ## Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil [CartABl](https://letg.cnrs.fr/cartabl-outil/)
 
