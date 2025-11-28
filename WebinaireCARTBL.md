@@ -1,22 +1,27 @@
-**Webinaire Carte Blanche #20. mardi 12 novembre 2024 (12h30-13h30)** 
+**Webinaire Carte Blanche #20. mardi 2 décembre 2025 (12h30-13h30)** 
 
-_Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives_ 
+##Intégrer de l’interactivité dans vos documents graphiques sans coder avec CartABl
 
-par [Ronan Ysebaert](https://rysebaert.gitpages.huma-num.fr/cv/) [1], Louis Laurian [2], Marianne Guerois [3] et Malika Madelin [4] 
+•	Laurent Pourinet, IE Cnrs, Cartographe d’édition, LETG UMR 6554
+•	Olivier Aubert, Mcf Associé Nantes Université, IR LS2N UMR 6004
+•	Julie Pierson, IE Cnrs Géomaticienne, LETG UMR 6554
+•	Davien Blanc, IE Cnrs, Ingénierie logicielle et base de données, LETG UMR 6554
 
 ![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_ysebaert.png)
 
+Infos de connexion : 
 
-**Résumé** : Cette communication présente les principaux résultats issus de la construction d’une plateforme de géovisualisation des hébergements Airbnb en région parisienne. Ce site web a été développé pour rendre accessible une collection de cartes et graphiques inédits à l’échelle régionale. Il vise à documenter la diffusion de l’offre de ces locations de courte durée, en particulier au-delà des quartiers centraux, ce phénomène ayant été rarement étudié dans les banlieues proches ou lointaines des grandes métropoles touristiques alors qu’il tend à s’y déployer. Plus largement, ce site-prototype a rassemblé un collectif d’acteurs scientifiques et institutionnels, pour qui la plateforme représente un levier d’action pour la mutualisation de données, d’indicateurs et de visualisations utiles à la prise de décision, dans un contexte de crise du logement aiguë (cf colloque ci-dessous). Se pose ainsi en corollaire la question de la pérénisation de la démarche et son extension à d’éventuels autres terrains d’étude. 
+https://cnrs.zoom.us/j/91780565150?pwd=73DFMTLMHanXs5RoPtE0K3fYXKbfCH.1
 
-[1] Université Paris Cité, UAR RIATE - [2] CNRS, UAR RIATE - [3] Université Paris Cité, UMR Géographie-Cités - [4] Université Paris Cité, UMR PRODIG
+ID de réunion: 917 8056 5150
+Code secret: 9Db2Ud
+
+
+**Résumé** : Tirer parti de l’édition numérique en intégrant de l’interactivité dans les documents graphiques (cartes, datavisualisations). Fabriquer des documents de manière simple sans coder. Voilà ce que permet CartABl en mettant à disposition, en accès libre et gratuit, un logiciel d’intégration d’interactivité embarquée dans les fichiers vectoriels SVG produits avec un logiciel de dessin. L’objectif de cette Carte Blanche de l’AR9 du GDR Magis est de présenter CartABl développé en mode design collaboratif à LETG (UMR 6554 Cnrs) et de montrer des exemples de productions. Notre démarche exploratoire permet d’aborder une méthode innovante de scénarisation graphique et interroge sur l’interactivité au service de la valorisation scientifique. Nous vous proposons un échange autour de ces thématiques.
 
 - 📺 [Video du webinaire](https://podv2.unistra.fr/video/57098-ar920mp4/) <br />
 
 **Ressources** : 
-- [Riate airbnb](https://riate-airbnb.gitpages.huma-num.fr/website/) : la plateforme de visualisation 
-- [Locations meublées touristiques dans le Grand Paris](https://riate-airbnb.gitpages.huma-num.fr/colloque/) : colloque organisé conjointement par le [RIATE](https://riate.cnrs.fr/) et l’[APUR](https://www.apur.org/fr) (septembre 2023)
-- [github/rysebaert](https://github.com/rysebaert)
-- [github/riatelab](https://github.com/riatelab)
+
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
