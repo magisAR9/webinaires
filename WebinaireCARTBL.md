@@ -14,7 +14,7 @@ https://cnrs.zoom.us/j/91780565150?pwd=73DFMTLMHanXs5RoPtE0K3fYXKbfCH.1
 * Julie Pierson, IE Cnrs Géomaticienne, LETG UMR 6554
 * Davien Blanc, IE Cnrs, Ingénierie logicielle et base de données, LETG UMR 6554
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/Cartbvisuel.png)
+![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/VisuelCartabl.svg)
 
 
 ### Résumé : 
