@@ -1,4 +1,4 @@
-# Webinaire Carte Blanche #20. mardi 2 décembre 2025 (12h30-13h30) 
+# Webinaire Carte Blanche #21. mardi 2 décembre 2025 (12h30-13h30) 
 
 ### Infos de connexion : 
 
