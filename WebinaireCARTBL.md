@@ -1,6 +1,6 @@
-**Webinaire Carte Blanche #20. mardi 2 décembre 2025 (12h30-13h30)** 
+# Webinaire Carte Blanche #20. mardi 2 décembre 2025 (12h30-13h30) 
 
-##Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil [CartABl](https://letg.cnrs.fr/cartabl-outil/)
+## Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil [CartABl](https://letg.cnrs.fr/cartabl-outil/)
 
 •	Laurent Pourinet, IE Cnrs, Cartographe d’édition, LETG UMR 6554
 •	Olivier Aubert, Mcf Associé Nantes Université, IR LS2N UMR 6004
