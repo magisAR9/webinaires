@@ -10,16 +10,13 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 <br/>
 
 ## Prochain Webinaire
-* Carte blanche #21 - 02 décembre 2025 : Laurent POURINET, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON***, Ingénieure d'études CNRS, LETG UMR 6554 et Davien BLANC, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/), animation : Boris MERICSKAY 
+* Carte blanche #22 - mercredi 21 janvier 2026 12h30. **Marie-Laure TRÉMÉLO** (Ingénieure d'études, UMR ESPACE) et **Christine ZANIN** (Professeure des Universités, Université Paris-Diderot/Géographie-cités) : _la sémiologie graphique est-elle obsolète?_.<br/>
+Cette "carte blanche" sera l'occasion de revenir sur les résultats d'une enquête menée en 2024 auprès de géographes, chercheurs, étudiants et autres utilisateurs de carte  qui tentait de comprendre comment la sémiologie graphique est utilisée dans la conception cartographique actuelle, et d'échanger avec l'auditoire sur la question de l'obsolescence ou l'adaptation de la sémiologie graphique dans nos process de conception/réalisation de visualisations cartographiques
 
-*Julie PIERSON est mise en avant dans l'annonce de ce webinaire, en raison de notre souhait de faire connaître et valoriser le travail des géomaticiennes. 
-   
 ## Webinaires à venir :calendar:
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
 
-* Carte blanche #22 - 21 janvier 2026 : **Marie-Laure TRÉMÉLO** (Ingénieure d'études, UMR ESPACE) et **Christine ZANIN** (Professeure des Universités, Université Paris-Diderot/Géographie-cités) : _A propos de sémiologie graphique_, animation : Anne-Christine BRONNER
-  
 * Carte blanche #23 - REPORTE : **Lucile PILLOT**, Ingénieure d'etudes, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Fançoise BAHOKEN
   
 * Carte blanche #2 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche, Système d'Information de la Ville Durable et du Bâtiment Innovant [SI PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), animation :  _à préciser_.
@@ -29,12 +26,14 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 * Carte blanche #25 - (_jour à préciser_) mai/juin 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
   
 ## Webinaires passés
+▶️ Carte blanche #21 - 02 décembre 2025 : Laurent POURINET, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON***, Ingénieure d'études CNRS, LETG UMR 6554 et Davien BLANC, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/), animation : Boris MERICSKAY
+*Julie PIERSON est mise en avant dans l'annonce de ce webinaire, en raison de notre souhait de faire connaître et valoriser le travail des géomaticiennes. 
 
 ▶️ Carte blanche #20. 12 novembre 2024 : **Ronan YSEBAERT**,  Univ. Paris Cité/UAR RIATE, *[Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html)*
 
 ▶️ Carte blanche #19. 15 octobre 2024 : **Jean-Marc VIGLINO**, Univ. Gustave Eiffel/IGN, *[Ma Carte](https://magisar9.github.io/webinaires/cartogeoviz18-viglino.html)* 
 
-▶️ Carte blanche #18. 2 octobre 2024 : **Lucas DESTREM**, Cartographe indépendant, *[Expérimentations cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md)* <br/> 
+▶️ Carte blanche #18. 2 octobre 2024 : **Lucas DESTREM**, Cartographe indépendant, *[Expérimentations cartographiques](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz7-LucasDestrem.md)*
 
 ▶️ Carte blanche #17. 24 septembre 2024 : [**Matthieu Viry**](https://mthh.github.io/portfolio/), Ingénieur de recherche en informatique, UAR RIATE, *[Magrit Nouvelle version](https://magisar9.github.io/webinaires/cartogeoviz17-viry.html)* <br/>
 
