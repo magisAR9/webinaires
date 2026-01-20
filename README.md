@@ -24,7 +24,7 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 * Carte blanche #25 - (_jour à préciser_) mai/juin 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
 
-* Carte blanche #26 - (_jour à préciser_) septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_, animation : Françoise BAHOKEN
+* Carte blanche #26 - jeudi 16 septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_, animation : Françoise BAHOKEN
   
 ## Webinaires passés
 ▶️ Carte blanche #21 - 02 décembre 2025 : Laurent POURINET, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON***, Ingénieure d'études CNRS, LETG UMR 6554 et Davien BLANC, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/), animation : Boris MERICSKAY
