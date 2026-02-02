@@ -10,7 +10,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 <br/>
 
 ## Prochain Webinaire
-* Carte blanche #23 - **Joëlle THOLLOT**, Professeure des Universités, _Rendu et style graphique des géovisualisations (titre provisoire)_ , Grenoble Institut Polytechnique de Grenoble INP/Inria & StartupStudio, projet [micmap](https://www.micmap.fr/), animation : _à venir_ <br/>
+* Carte blanche #23 - **Joëlle THOLLOT**, Professeure des Universités, [_micmap : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz23-thollot.md), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA), animation : _à venir_ <br/>
 
 ## Webinaires à venir :calendar:
 
