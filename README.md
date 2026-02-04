@@ -10,7 +10,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 <br/>
 
 ## Prochain Webinaire
-* Carte blanche #23 - **Joëlle THOLLOT**, Professeure des Universités, [_micmap : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz23-thollot.md), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA), animation : _à venir_ <br/>
+* Carte blanche #23 - 12 février 2026 - **Joëlle THOLLOT**, Professeure des Universités, [_micmap : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz23-thollot.md), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA), animation : _à venir_ <br/>
 
 ## Webinaires à venir :calendar:
 
@@ -18,13 +18,14 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 * Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche, Système d'Information de la Ville Durable et du Bâtiment Innovant [SI PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), animation :  _à préciser_.
 
-* Carte blanche #25 - (_jour à préciser_) avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _titre à venir_, animation :  _à préciser_.
+* Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _titre à venir_, animation :  _à préciser_.
 
 * Carte blanche #26 - (_jour à préciser_) mai/juin 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
 
-* Carte blanche #27  : (_jour à préciser_) mai/juin 2026 : **Lucile PILLOT**, Ingénieure d'etudes, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Françoise BAHOKEN
+* Carte blanche #27  : (_jour à préciser_) mai/juin 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Françoise BAHOKEN
 
 * Carte blanche #28 - jeudi 16 septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_, animation : Françoise BAHOKEN
+
   
 ## Webinaires passés
 ▶️ Carte blanche #22 - mercredi 21 janvier 2026 : **Marie-Laure TRÉMÉLO**, Ingénieure d'études CNRS, UMR ESPACE et **Christine ZANIN**, Professeure des Universités, Université Paris-Diderot/Géographie-cités : *[La sémiologie graphique est-elle obsolète ?](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz22-MLT-CZ.md)*
