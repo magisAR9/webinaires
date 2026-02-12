@@ -28,6 +28,6 @@ Et je terminerai par quelques réalisations concrètes dans le domaine du touris
 
 [Lien](https://univ-eiffel.zoom.us/j/89739148201) 
 
-ID de réunion : 897 3914 8201 | Code secret : AR9m@gis </br>
+ID de réunion : 897 3914 8201 | Code secret : AR9m@gis
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
