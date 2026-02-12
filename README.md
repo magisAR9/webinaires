@@ -20,12 +20,19 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 * Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _titre à venir_, animation :  _à préciser_.
 
-* Carte blanche #26 - (_jour à préciser_) mai/juin 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
+* Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, Geomag,  _IA & enjeux de Géovisualisation dans QGIS (titre provisoire)_, animation :  _à préciser_.
 
-* Carte blanche #27  : (_jour à préciser_) mai/juin 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Françoise BAHOKEN
+* Carte blanche #27 - (_jour à préciser_) juin/juillet 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
 
-* Carte blanche #28 - jeudi 16 septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_, animation : Françoise BAHOKEN
+* Carte blanche #28  : (_jour à préciser_) juin/juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Françoise BAHOKEN
 
+* Carte blanche #29 - jeudi 16 septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_, animation : Françoise BAHOKEN
+
+* Carte blanche #30 - (_jour à préciser_) octobre 2026 :
+
+ * Carte blanche #31 - (_jour à préciser_) novembre 2026 :
+
+ * Carte blanche #30 - (_jour à préciser_) décembre 2026 :
   
 ## Webinaires passés
 ▶️ Carte blanche #22 - mercredi 21 janvier 2026 : **Marie-Laure TRÉMÉLO**, Ingénieure d'études CNRS, UMR ESPACE et **Christine ZANIN**, Professeure des Universités, Université Paris-Diderot/Géographie-cités : *[La sémiologie graphique est-elle obsolète ?](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz22-MLT-CZ.md)*
