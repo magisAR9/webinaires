@@ -6,27 +6,27 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Format :information_desk_person:
 
-**Durée :** À partir de 12h30, pour 30mn de présentation en mode visioconférence + 30 mn d'échanges et de discussions. <br/> Le webinaire est animé et modéré par l'un·e des porteur·es de l'AR 9 (Françoise, Anne-Christine, Boris, Etienne, Nicolas ou Robin).
+**Durée :** À partir de 12h30, pour 30mn de présentation enregistrée, en mode visioconférence + 30 mn d'échanges et de discussions. <br/> Le webinaire est animé et modéré par l'un·e des porteur·es de l'AR9magis CartoGeoViz (Françoise, Anne-Christine, Boris, Etienne, Nicolas et/ou Robin).
 <br/>
 
 ## Prochain Webinaire
-* Carte blanche #23 - 12 février 2026 - **Joëlle THOLLOT**, Professeure des Universités, [_micmap : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique_](https://magisar9.github.io/webinaires/cartogeoviz23-thollot.html), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA), animation : _à venir_ <br/>
+
+📺 Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche, Système d'Information de la Ville Durable et du Bâtiment Innovant [SI PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), _titre à venir_, animation :  _à préciser_. <br/>
+
 
 ## Webinaires à venir :calendar:
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
 
-* Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche, Système d'Information de la Ville Durable et du Bâtiment Innovant [SI PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), animation :  _à préciser_.
-
 * Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _titre à venir_, animation :  _à préciser_.
 
 * Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, Geomag,  _IA & enjeux de Géovisualisation dans QGIS (titre provisoire)_, animation :  _à préciser_.
 
-* Carte blanche #27 - (_jour à préciser_) juin/juillet 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
+* Carte blanche #27 - (_jour à préciser_) juin 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
 
-* Carte blanche #28  : (_jour à préciser_) juin/juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _titre à venir_, animation : Françoise BAHOKEN
+* Carte blanche #28  : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : [_Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques (CartAJ)](https://magisar9.github.io/webinaires/cartogeoviz28-pillot.html), animation : _à préciser_.
 
-* Carte blanche #29 - jeudi 16 septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_, animation : Françoise BAHOKEN
+* Carte blanche #29 - jeudi 16 septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_, animation :  _à préciser_.
 
 * Carte blanche #30 - jeudi 8 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation :  _à préciser_.
 
@@ -35,9 +35,11 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
  * Carte blanche #30 - (_jour à préciser_) décembre 2026 :
   
 ## Webinaires passés
+▶️ Carte blanche #23 - 12 février 2026 - **Joëlle THOLLOT**, Professeure des Universités, [_micmap : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique_](https://magisar9.github.io/webinaires/cartogeoviz23-thollot.html), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA)
+
 ▶️ Carte blanche #22 - mercredi 21 janvier 2026 : **Marie-Laure TRÉMÉLO**, Ingénieure d'études CNRS, UMR ESPACE et **Christine ZANIN**, Professeure des Universités, Université Paris-Diderot/Géographie-cités : *[La sémiologie graphique est-elle obsolète ?](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz22-MLT-CZ.md)*
 
-▶️ Carte blanche #21 - 02 décembre 2025 : **Laurent POURINET**, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON***, Ingénieure d'études CNRS, LETG UMR 6554 et Davien BLANC, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/), animation : Boris MERICSKAY
+▶️ Carte blanche #21 - 02 décembre 2025 : **Laurent POURINET**, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON***, Ingénieure d'études CNRS, LETG UMR 6554 et Davien BLANC, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](https://github.com/magisAR9/webinaires/blob/main/WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/)
 *Julie PIERSON est mise en avant dans l'annonce de ce webinaire, en raison de notre souhait de faire connaître et valoriser le travail des géomaticiennes. 
 
 ▶️ Carte blanche #20. 12 novembre 2024 : **Ronan YSEBAERT**,  Univ. Paris Cité/UAR RIATE, *[Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](https://magisar9.github.io/webinaires/cartogeoviz19-ysebaert.html)*
