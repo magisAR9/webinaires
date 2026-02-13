@@ -1,6 +1,7 @@
 **Webinaire Carte Blanche #28. 8 juillet 2026 (12h30-13h30)**
 
-_Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques ([CartAJ](https://msh-dijon.ube.fr/fiche-de-presentation-programme-cartaj-cartographier-les-structures-dacces-au-droit-et-a-la-justice/)_)</br>
+_Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques ([CartAJ](https://msh-dijon.ube.fr/fiche-de-presentation-programme-cartaj-cartographier-les-structures-dacces-au-droit-et-a-la-justice/)_)
+
 par **Lucile Pillot**, Ingénieure d'études cartographe géomaticienne, responsable du [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc),
 Université Bourgogne Europe (UBE), Maison des sciences de l'Homme de Dijon - UAR3516 UBE-CNRS
 
