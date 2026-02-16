@@ -10,9 +10,7 @@ par [Marie-Laure TRÉMÉLO](https://cv.hal.science/marie-laure-tremelo) (Ingéni
 
 **Résumé** : Cette “carte blanche” sera l’occasion de revenir sur les résultats d’une enquête menée en 2024 auprès de géographes, chercheurs, étudiants et autres utilisateurs de carte qui tentait de comprendre comment la sémiologie graphique est utilisée dans la conception cartographique actuelle, et d’échanger avec l’auditoire sur la question de l’obsolescence ou l’adaptation de la sémiologie graphique dans nos process de conception/réalisation de visualisations cartographiques.
 
-**Information connexion**
-adresse : https://bbb.unistra.fr/rooms/bro-r7m-ugj-wpp/join
-
-Code d'accès : 002585
+- 📺 [Vidéo du webinaire](https://pod.unistra.fr/video/61592-la-semiologie-graphique-est-elle-obsolete/)
+- [Diaporama]
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
