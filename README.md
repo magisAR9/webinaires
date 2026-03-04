@@ -18,7 +18,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
 
-* Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _titre à venir_, animation :  _à préciser_.
+* Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_, animation :  _à préciser_.
 
 * Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, Geomag,  _IA & enjeux de Géovisualisation dans QGIS (titre provisoire)_, animation :  _à préciser_.
 
