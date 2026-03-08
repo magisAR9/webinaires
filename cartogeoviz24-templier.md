@@ -25,6 +25,7 @@ L'objectif est de disposer d'un premier regard sur l'état de l'accessibilité e
 
 [Lien](https://univ-eiffel.zoom.us/j/82868834078) 
 
-ID de réunion : 897 3914 8201 | Code secret : AR9m@gis
+ID de réunion : 828 6883 4078 | Code secret : AR9m@gis
+ 
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
