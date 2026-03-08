@@ -42,8 +42,8 @@ J’aborderai donc les points suivants :
 
 **Accès au webinaire**
 
-[Lien](https://univ-eiffel.zoom.us/j/89739148201) 
+[Lien](https://univ-eiffel.zoom.us/j/87475249744)
 
-ID de réunion : 897 3914 8201 | Code secret : AR9m@gis
+ID de réunion : 874 7524 9744 | Code secret : AR9m@gis
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
