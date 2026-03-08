@@ -23,7 +23,7 @@ L'objectif est de disposer d'un premier regard sur l'état de l'accessibilité e
 
 **Accès au webinaire**
 
-[Lien](https://univ-eiffel.zoom.us/j/89739148201) 
+[Lien](https://univ-eiffel.zoom.us/j/82868834078) 
 
 ID de réunion : 897 3914 8201 | Code secret : AR9m@gis
 
