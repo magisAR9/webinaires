@@ -11,14 +11,12 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire
 
-📺 Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche - Analyse spatiale, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), [_Visualiser les inégalités d'accès aux services par commune_](https://magisar9.github.io/webinaires/cartogeoviz24-templier.html), animation :  *Robin*. <br/>
+📺 Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_, animation :  _à préciser_.
 
 
 ## Webinaires à venir :calendar:
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
-
-* Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_, animation :  _à préciser_.
 
 * Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, Geomag,  _IA & enjeux de Géovisualisation dans QGIS (titre provisoire)_, animation :  _à préciser_.
 
@@ -35,6 +33,9 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
  * Carte blanche #30 - (_jour à préciser_) décembre 2026 :
   
 ## Webinaires passés
+
+▶️ Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche - Analyse spatiale, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), [_Visualiser les inégalités d'accès aux services par commune_](https://magisar9.github.io/webinaires/cartogeoviz24-templier.html)
+
 ▶️ Carte blanche #23 - 12 février 2026 - **Joëlle THOLLOT**, Professeure des Universités, [_micmap : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique_](https://magisar9.github.io/webinaires/cartogeoviz23-thollot.html), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA)
 
 ▶️ Carte blanche #22 - mercredi 21 janvier 2026 : **Marie-Laure TRÉMÉLO**, Ingénieure d'études CNRS, UMR ESPACE et **Christine ZANIN**, Professeure des Universités, Université Paris-Diderot/Géographie-cités : *[La sémiologie graphique est-elle obsolète ?](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz22-MLT-CZ.md)*
