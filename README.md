@@ -11,7 +11,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire
 
-📺 Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche - Analyse spatiale, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), [_Visualiser les inégalités d'accès aux services par commune_](https://magisar9.github.io/webinaires/cartogeoviz24-templier.html), animation :  _à préciser_. <br/>
+📺 Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche - Analyse spatiale, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), [_Visualiser les inégalités d'accès aux services par commune_](https://magisar9.github.io/webinaires/cartogeoviz24-templier.html), animation :  *Robin*. <br/>
 
 
 ## Webinaires à venir :calendar:
