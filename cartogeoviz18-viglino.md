@@ -13,9 +13,10 @@ et de [publication de cartes en ligne](https://macarte.ign.fr/). Depuis 2023, ce
 Je vous propose de faire un tour d’horizon des solutions mises en place et de vous présenter les outils disponibles pour la création des cartes et de widgets carto
 à intégrer sur vos sites.
 
-📺 [Video du webinaire](https://sharedocs.huma-num.fr/wl/?id=4oLuNMCNsoVe7P0QEr0ICdM87TrVrNa0) </br>
+📺 [Video du webinaire](https://sharedocs.huma-num.fr/wl/?id=dAlBAckQmSP0Ri1slT6f9Af8tiUvstiN)
 
-**Ressources** </br>
+**Ressources** 
+
 - [github/Viglino](https://github.com/Viglino)
 - [Ma carte IGN](https://macarte.ign.fr/)
 - Github du projet [./IGNF-Ma-carte](https://github.com/IGNF-Ma-carte)
