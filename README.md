@@ -18,7 +18,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
 
-* Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, Geomag,  _IA & enjeux de Géovisualisation dans QGIS (titre provisoire)_, animation :  _à préciser_.
+* Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, GEOMA-SIG open source, _IA & optimisation des workflow dans QGIS_, animation : _à préciser_.
 
 * Carte blanche #27 - (_jour à préciser_) juin 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
 
@@ -28,7 +28,7 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 * Carte blanche #30 - jeudi 8 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation :  _à préciser_.
 
- * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en géomatique/cartographie, UMR TREE, Pau & wikimédienne en résidence à l'URFIST (Paris), _Visualisation des données de Wikidata : l'exemple de Wikif_, animation : _à préciser_.
+ * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en géomatique/cartographie, UMR TREE, Pau & wikimédienne en résidence, URFIST (Paris), _Visualisation des données de Wikidata : l'exemple de Wikif_, animation : _à préciser_.
 
  * Carte blanche #30 - (_jour à préciser_) décembre 2026 :
   
