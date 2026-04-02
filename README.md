@@ -20,7 +20,7 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 * Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, GEOMA-SIG open source, _IA & optimisation des workflow dans QGIS_, animation : _à préciser_.
 
-* Carte blanche #27 - (_jour à préciser_) juin 2026 : **Hélène MATHIAN** avec **collègues**, Ingénieure de recherches CNRS, UMR EVS,  _titre à venir_, animation :  _à préciser_.
+* Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, CNRS, ENS Lyon et **Claire CUNTY et Camille SCHEFFLER**, Université Lyon  2,  _titre à venir_, animation :  _à préciser_.
 
 * Carte blanche #28  : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _[Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques - CartAJ](https://magisar9.github.io/webinaires/cartogeoviz28-pillot.html)_, animation : _à préciser_.
 
