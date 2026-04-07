@@ -27,5 +27,10 @@ Les points suivants seront abordés :
 📺 [Vidéo du Webinaire](_à venir_)
 [Slides](_à venir_)
 
+**Accès au webinaire**
+
+[Lien](https://univ-eiffel.zoom.us/j/86899481871)
+
+ID de réunion : 868 9948 1871 | Code secret : AR9m@gis
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
