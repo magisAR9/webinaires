@@ -18,7 +18,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
 
-* Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](https://magisar9.github.io/webinaires/cartogeoviz26-amiar_meftah.html)_, animation : _à préciser_.
+* Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](https://magisar9.github.io/webinaires/cartogeoviz26-amiar_meftah.html)_, animation : Robin Cura.
 
 * Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, CNRS, ENS Lyon et **Claire CUNTY et Camille SCHEFFLER**, Université Lyon  2,  _titre à venir_, animation :  _à préciser_.
 
