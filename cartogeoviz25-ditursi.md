@@ -35,9 +35,9 @@ J’aborderai donc les points suivants :
 
 **Ressources :** 
 
-📺 [Vidéo du Webinaire](_à venir_)
+📺 [Vidéo du Webinaire](https://sharedocs.huma-num.fr/wl/?id=37gXn3OEo71tS2g5ZJxopkHeanrIgS64)
 
-[Slides](_à venir_)
+[Slides](https://sharedocs.huma-num.fr/wl/?id=FVLLFLwr9RbSxo6mw2GGgTMtMWBQlo6P)
 
 
 **Accès au webinaire**
