@@ -11,14 +11,11 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire
 
-📺 Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_, animation :  _à préciser_.
-
+📺 Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](https://magisar9.github.io/webinaires/cartogeoviz26-amiar_meftah.html)_, animation : Robin Cura.
 
 ## Webinaires à venir :calendar:
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
-
-* Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](https://magisar9.github.io/webinaires/cartogeoviz26-amiar_meftah.html)_, animation : Robin Cura.
 
 * Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, CNRS, ENS Lyon et **Claire CUNTY et Camille SCHEFFLER**, Université Lyon  2,  _titre à venir_, animation :  _à préciser_.
 
@@ -33,6 +30,8 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
  * Carte blanche #30 - (_jour à préciser_) décembre 2026 :
   
 ## Webinaires passés
+
+▶️  Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_.
 
 ▶️ Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche - Analyse spatiale, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), [_Visualiser les inégalités d'accès aux services par commune_](https://magisar9.github.io/webinaires/cartogeoviz24-templier.html)
 
