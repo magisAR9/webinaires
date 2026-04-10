@@ -27,7 +27,8 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
  * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en géomatique/cartographie, UMR TREE, Pau & wikimédienne en résidence, URFIST (Paris), _Visualisation des données de Wikidata : l'exemple de Wikif_, animation : _à préciser_.
 
- * Carte blanche #30 - (_jour à préciser_) décembre 2026 :
+ * Carte blanche #30 - (_jour à préciser_) décembre 2026 : **Géraldine GEOFFROY**, Assistante technique, Université Côte d’Azur et **Christine PLUMEJEAUD-PERREAU**, Ingénieure de recherche en géomatique, UMR Migrinter (Poitiers), [Portic Visualisation](http://explore1.portic.fr/) : _Géovisualiser pour explorer des mouvements commerciaux maritimes historiques_, animation : Françoise Bahoken.
+
   
 ## Webinaires passés
 
