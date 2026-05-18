@@ -29,8 +29,8 @@ Les points suivants seront abordés :
 
 **Accès au webinaire**
 
-[Lien](https://univ-eiffel.zoom.us/j/86899481871)
+[Lien](https://pantheonsorbonne.zoom.us/j/95021297280)
 
-ID de réunion : 868 9948 1871 | Code secret : AR9m@gis
+ID de réunion : 950 2129 7280 | Code secret : AR9m@gis
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
