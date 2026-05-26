@@ -82,7 +82,7 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 ▶️ Carte blanche #2. Décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable), [*Faire des cartes statistiques avec* Observable Plot](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz2-riviere.md)<br/>
 
-▶️ Carte blanche #1. Novembre 2022 [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE), *[Effets spéciaux pour questions spatiales\_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz1-kerouanton.md)*
+▶️ Carte blanche #1. Novembre 2022 [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE), *[Effets spéciaux pour questions spatiales\_](cartogeoviz1-kerouanton.md)*
 
 ## Intervenir dans le webinaire Carte blanche
 
