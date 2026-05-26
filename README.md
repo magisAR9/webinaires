@@ -11,13 +11,12 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire
 
-📺 Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](https://magisar9.github.io/webinaires/cartogeoviz26-amiar_meftah.html)_, animation : Robin Cura.
+📺  Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, **Claire CUNTY et Camille SCHEFFLER**, Laboratoire [EVS](https://umr5600.cnrs.fr/fr/accueil/) Environnement Ville Société,  _[Ce que les expériences vécues révèlent des lieux : le potentiel analytique des géovisualisations](https://magisar9.github.io/webinaires/cartogeoviz27_CCHMCS.html)_, animation :  Anne-Christine Bronner.
 
 ## Webinaires à venir :calendar:
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
 
-* Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, **Claire CUNTY et Camille SCHEFFLER**, Laboratoire [EVS](https://umr5600.cnrs.fr/fr/accueil/) Environnement Ville Société,  _[Ce que les expériences vécues révèlent des lieux : le potentiel analytique des géovisualisations](https://magisar9.github.io/webinaires/cartogeoviz27_CCHMCS.html)_, animation :  Anne-Christine Bronner.
 
 * Carte blanche #28  : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _[Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques - CartAJ](https://magisar9.github.io/webinaires/cartogeoviz28-pillot.html)_, animation : _à préciser_.
 
@@ -31,6 +30,8 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
   
 ## Webinaires passés
+
+▶️  Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](https://magisar9.github.io/webinaires/cartogeoviz26-amiar_meftah.html)_.
 
 ▶️  Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](https://magisar9.github.io/webinaires/cartogeoviz25-ditursi.html)_.
 
