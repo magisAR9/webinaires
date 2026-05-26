@@ -10,11 +10,11 @@ Contrairement aux outils traditionnels de cartographie web à base de données m
 **Ressources** </br>
 
 - 📺 [Vidéo du Webinaire](https://sharedocs.huma-num.fr/wl/?id=RNW9k65Ziq5YhjFfriIvYH1kTGXEAwKs)
-- [Slides](./20231005_gridviz_GDRmagis_gaffuri.pdf)
+- [Slides](img/20231005_gridviz_GDRmagis_gaffuri.pdf)
 - [https://jgaffuri.github.io/](https://jgaffuri.github.io/)
 - [https://eurostat.github.io/gridviz/](https://eurostat.github.io/gridviz/)
 
-<img src="gridviz.png"></img>
+<img src="img/gridviz.png"></img>
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
 

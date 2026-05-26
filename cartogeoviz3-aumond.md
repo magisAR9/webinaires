@@ -3,7 +3,7 @@ _Cartographie du paysage sonore urbain_ </br>
 par Pierre AUMOND, CR Univ. Gustave Eiffel, CEREMA, UMRAE,  </br>
  [@SoundCartograp1](https://twitter.com/SoundCartograp1), [Soundcartography](https://soundcartography.wordpress.com/)
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_aumond.png)
+![alt text](img/affiche_webinaire_aumond.png)
 
 _Carte issue de la sélection de l’agrément sonore un jour de semaine au lieu du positionnement du curseur,
 avec représentation de la présence des trois types de sources sonores._ </br>
@@ -12,10 +12,6 @@ Source : Projet Ademe Cart_ASUR
 **Résumé** : La cartographie des environnements sonores est périlleuse car il y a une imbrication de messages sonores diffus
 provenant d'une grande variété de sources. La complexité augmente encore lorsqu'il s'agit d'intégrer une partie sensible liée
 à leur perception par les individus. Des travaux relatifs à ce sujet seront présentés et commentés.
-
-**Accès Zoom** </br>
-[Lien](https://univ-eiffel.zoom.us/j/87680547058) </br>
--ID de réunion : 876 8054 7058 | Code secret : AR9m@gis</br>
 
 **Ressources** </br>
 📺 [Video du webinaire](https://bit.ly/3KoOBrs) </br>

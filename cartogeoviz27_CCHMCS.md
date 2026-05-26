@@ -6,8 +6,7 @@ Ce que les expériences vécues révèlent des lieux : le potentiel analytique d
 
 Claire Cunty, Hélène Mathian, Camille Scheffler, [EVS - Laboratoire environnement ville société](https://umr5600.cnrs.fr/fr/accueil/).
 
-![Capture d'écran de l'application Geomobiles, 2026](affiche_webinaire_CCHMCS.png)
-![Capture d'écran du logiciel Magrit, 2024](magrit-cinema.png)
+![Capture d'écran de l'application Geomobiles, 2026](img/affiche_webinaire_CCHMCS.png)
 
 **Résumé** :
 De nombreuses applications mobiles proposent de laisser des traces géolocalisées de nos différentes expériences vécues ou pratiques spatiales. La partie cartographique de ces applications permet le recueil de ces informations et le fond de carte devient le support cet inventaire que chacun·e peut venir explorer par le biais d’outils de recherche. Mais qu’est-ce que ces collections d’expériences vécues localisées peuvent nous apprendre des lieux, et réciproquement ? À partir d’un jeu d’annotations retraçant le vécu d’étudiant·es étrangers arrivant à Lyon, nous proposons d’interroger la capacité de nos outils de géovisualisation à rendre compte de ces objets sensibles de manière analytique, et des questions que cela soulève  dès lors que l’on souhaite revenir au territoire.

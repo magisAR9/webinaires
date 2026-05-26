@@ -5,7 +5,7 @@ _Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridi
 par **Lucile Pillot**, Ingénieure d'études cartographe géomaticienne, responsable du [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc),
 Université Bourgogne Europe (UBE), Maison des sciences de l'Homme de Dijon - UAR3516 UBE-CNRS
 
-![Affiche_webinaire_Lucile_Pillot](https://github.com/user-attachments/assets/01e760d6-9eb8-446c-9f10-d51c19ad794a)
+![Affiche_webinaire_Lucile_Pillot](img/Affiche_webinaire_Lucile_Pillot.png)
 
 **Résumé :** 
 

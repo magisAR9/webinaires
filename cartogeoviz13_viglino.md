@@ -3,7 +3,7 @@ _ol-ext et cie._ </br>
 par Jean-Marc VIGLINO, Ingénieur IGN, Chef de secteur Express, Univ. Gustave Eiffel, IGN France  </br>
  [@jmviglino](https://twitter.com/jmviglino), [github/Viglino](https://github.com/Viglino)
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_viglino.png)
+![alt text](img/affiche_webinaire_viglino.png)
 
 
 **Résumé** : Au cours de mes divers projets de développements cartographiques, j'ai été amené à reverser des outils ou des ressources sur Github que je me propose de vous détailler aujourd'hui.

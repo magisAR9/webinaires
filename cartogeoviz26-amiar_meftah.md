@@ -4,7 +4,7 @@
  
 par [Dalila AMIAR MEFTAH](https://www.linkedin.com/in/dalila-amiar/), Architecte, géographe/géomaticienne, Conseil et formation en SIG Open source, [GEOMA-SIG.com](https://geoma-sig.com/) 
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_amiar_meftah.PNG)
+![alt text](img/affiche_webinaire_amiar_meftah.PNG)
  
 **Résumé :** 
 
@@ -24,13 +24,9 @@ Les points suivants seront abordés :
 
 **Ressources :** 
 
-📺 [Vidéo du Webinaire](_à venir_)
-[Slides](_à venir_)
+📺 [Vidéo du Webinaire](https://sharedocs.huma-num.fr/wl/?id=U8kXu5MSLg182vl8Ff6SHDsrRGM5oWCX)
 
-**Accès au webinaire**
+[Slides](img/Slides_Webinaire_26_AMIAR.pdf)
 
-[Lien](https://pantheonsorbonne.zoom.us/j/95021297280)
-
-ID de réunion : 950 2129 7280 | Code secret : AR9m@gis
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)

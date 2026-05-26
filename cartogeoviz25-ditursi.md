@@ -6,7 +6,7 @@ par [Fanny DI TURSI](https://www.linkedin.com/in/fanny-di-tursi-b1a04a129/), doc
 post-doctorante à l’Université Grenoble-Alpes, [Laboratoire d’Informatique de Grenoble - LIG](https://www.liglab.fr/fr)
 
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_ditursi_2026.png)
+![alt text](img/affiche_webinaire_ditursi_2026.png)
 
 **Crédits illustrations :**
 1. Cartographie tactique réalisée au véhicule de commandement sapeur-pompier (Di Tursi, 2021)
@@ -39,11 +39,5 @@ J’aborderai donc les points suivants :
 
 [Slides](https://sharedocs.huma-num.fr/wl/?id=FVLLFLwr9RbSxo6mw2GGgTMtMWBQlo6P)
 
-
-**Accès au webinaire**
-
-[Lien](https://univ-eiffel.zoom.us/j/87475249744)
-
-ID de réunion : 874 7524 9744 | Code secret : AR9m@gis
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)

@@ -1,11 +1,5 @@
 # Webinaire Carte Blanche #21. mardi 2 décembre 2025 (12h30-13h30) 
 
-### Infos de connexion : 
-
-https://cnrs.zoom.us/j/91780565150?pwd=73DFMTLMHanXs5RoPtE0K3fYXKbfCH.1
-
-* ID de réunion: 917 8056 5150
-* Code secret: 9Db2Ud
 
 ## Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil [CartABl](https://letg.cnrs.fr/cartabl-outil/)
 
@@ -14,7 +8,7 @@ https://cnrs.zoom.us/j/91780565150?pwd=73DFMTLMHanXs5RoPtE0K3fYXKbfCH.1
 * Julie Pierson, IE Cnrs Géomaticienne, LETG UMR 6554
 * Davien Blanc, IE Cnrs, Ingénierie logicielle et base de données, LETG UMR 6554
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/VisuelCartabl.svg)
+![alt text](img/VisuelCartabl.svg)
 
 
 ### Résumé : 

@@ -4,7 +4,7 @@ par [Lucas DESTREM](https://www.lucasdestrem.com/), Géographe et cartographe  <
 
 <hr>
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/AfficheDestrem.jpg)
+![alt text](img/AfficheDestrem.jpg)
 
 **Résumé** : Passionné par les questions patrimoniales, intéressé par les projets et politiques de développement local et notamment par les thématiques de la culture, de la démocratie, des mobilités et de la communication institutionnelle et territoriale, j'ai créé la micro-entreprise GéoGraphismes, qui me permet d'assurer des missions tout à fait hybrides, au croisement de la cartographie/infographie et de la production de contenus de vulgarisation et médiation. Parallèlement, je mène régulièrement différents projets éditoriaux. 
 

@@ -5,7 +5,7 @@
 par [Ophélie Templier](https://www.linkedin.com/in/oph%C3%A9lie-templier-a25263197/), Ingénieure de Recherche - Analyse Spatiale, 
 Université Gustave Eiffel, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi)
  
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_webinaire_templier.PNG)
+![alt text](img/affiche_webinaire_templier.PNG)
  
 **Résumé :** 
 Cette carte blanche présente un outil que je développe au sein du Système d’Information de la Ville Durable et du Bâtiment Innovant (SIVDBI),
@@ -17,9 +17,6 @@ L'objectif est de disposer d'un premier regard sur l'état de l'accessibilité e
 **Ressources :** 
 
 📺 [Vidéo du Webinaire](https://sharedocs.huma-num.fr/wl/?id=UPSTc1HNJpj2ldKAbaGSwHeswnlmb931&fmode=download) à télécharger pour pouvoir être visionnée.
-
-[Slides](_à venir_)
-
  
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)

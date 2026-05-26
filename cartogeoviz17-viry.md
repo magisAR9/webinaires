@@ -8,7 +8,7 @@
 
 Par [Matthieu Viry](https://mthh.github.io/portfolio/), ingénieur de recherche en informatique CNRS à l'UAR [RIATE](https://riate.cnrs.fr/).
 
-![Capture d'écran du logiciel Magrit, 2024](magrit-cinema.png)
+![Capture d'écran du logiciel Magrit, 2024](img/magrit-cinema.png)
 
 
 **Résumé** : Ce webinaire présente l'application de cartographie thématique Magrit et en particulier les nouveautés offertes par la version 2 de l'application, sortie en juillet 2024 : nouvelles fonctionnalités relatives à la préparation des données, nouvelles possibilités de représentations, personnalisation accrue des cartes réalisées, etc.

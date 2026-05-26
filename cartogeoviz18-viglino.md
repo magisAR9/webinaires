@@ -6,7 +6,7 @@ par Jean-Marc VIGLINO, [@jmviglino](https://twitter.com/jmviglino), Ingénieur I
 
 
 
-![alt text](https://raw.githubusercontent.com/magisAR9/webinaires/main/affiche_Viglino2024.png)
+![alt text](img/affiche_Viglino2024.png)
 
 **Résumé** : Depuis 2008, l’[IGN](https://www.ign.fr/) développe pour [Édugéo](https://www.edugeo.fr/), en partenariat avec l’Éducation Nationale, des outils de cartographie
 et de [publication de cartes en ligne](https://macarte.ign.fr/). Depuis 2023, ces outils sont disponibles en [Opensource sur Github](https://github.com/IGNF-Ma-carte).
