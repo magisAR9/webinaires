@@ -26,9 +26,13 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
  * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en géomatique/cartographie, UMR TREE, Pau & wikimédienne en résidence, URFIST (Paris), _Visualisation des données de Wikidata : l'exemple de Wikif_, animation : _à préciser_.
 
- * Carte blanche #30 - mercredi 2 décembre 2026 : **Géraldine GEOFFROY**, Assistante technique, Université Côte d’Azur et **Christine PLUMEJEAUD-PERREAU**, Ingénieure de recherche en géomatique, UMR Migrinter (Poitiers), [Portic Visualisation](http://explore1.portic.fr/) : _Géovisualiser pour explorer des mouvements commerciaux maritimes historiques_, animation : Françoise Bahoken.
+ * Carte blanche #32 - mercredi 2 décembre 2026 : **Géraldine GEOFFROY**, Assistante technique, Université Côte d’Azur et **Christine PLUMEJEAUD-PERREAU**, Ingénieure de recherche en géomatique, UMR Migrinter (Poitiers), [Portic Visualisation](http://explore1.portic.fr/) : _Géovisualiser pour explorer des mouvements commerciaux maritimes historiques_, animation : Françoise Bahoken.
 
- * Carte blanche #31 - _jour à préciser_ janvier 2027 : **Marie LEMIERE**, Doctorante en géographie à l'Université Gustave Eiffel/GéoData et Cheffe de projet Accessibilité des espaces naturels et des JOP Alpes 2030 à la Délégation ministérielle à l'accessibilité : _Titre à venir_, animation : à définir.
+ * Carte blanche #33 - _jour à préciser_ janvier 2027 : **Marie LEMIERE**, Doctorante en géographie à l'Université Gustave Eiffel/GéoData et Cheffe de projet Accessibilité des espaces naturels et des JOP Alpes 2030 à la Délégation ministérielle à l'accessibilité : _Titre à venir_, animation : à définir.
+
+ * Carte blanche #34 - _jour à préciser_ février 2027 : **Edgar LEJEUNE**, Post-Doctorant en Histoire et philosophie des sciences, Chaire d'Excellence en Édition Numérique, Université de Rouen : _Computing without computer en analyse graphique (titre provisoire)_, animation : à définir.
+
+ * Carte blanche #35 - jeudi 11 mars 2027 : **Mathieu VIRY, Timothée GIRAUD**, Ingénieurs de recherche CNRS  en informatique et en Sciences de l'information géographique, UAR Riate et **Hughes PECOUT**, Ingénieur d'études CNRS en Sciences de l'information géographique, UMR Géographie-Cités : _Hello Mapsf.gui ! (titre provisoire)_, animation : à définir.
   
 ## Webinaires passés
 
@@ -36,13 +40,13 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 ▶️  Carte blanche #25 - 9 avril 2026 : **Fanny DI TURSI**, Docteure en Géographie, Post-doctorante, Laboratoire Informatique de Grenoble,  _[Les arts et les manières de représenter l’espace de l’urgence](cartogeoviz25-ditursi.md)_.
 
-▶️ Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche - Analyse spatiale, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), [_Visualiser les inégalités d'accès aux services par commune_](cartogeoviz24-templier.md)
+▶️ Carte blanche #24 - 12 mars 2026 : **Ophélie TEMPLIER**, Ingénieure de Recherche - Analyse spatiale, Université Gustave Eiffel, Système d'Information de la Ville Durable et du Bâtiment Innovant [(SI) du PEPR VDBI](https://pepr-vdbi.fr/les-centres-operationnels/co-sivdbi), [_Visualiser les inégalités d'accès aux services par commune_](cartogeoviz24-templier.md)
 
 ▶️ Carte blanche #23 - 12 février 2026 - **Joëlle THOLLOT**, Professeure des Universités, [_micmap : géovisualisation 3D stylisée. Histoire d'une collaboration entre un panoramiste et des chercheurs en informatique_](cartogeoviz23-thollot.md), Grenoble INP, Laboratoire Jean Kuntzmann (CNRS, GINP, inria, UGA)
 
 ▶️ Carte blanche #22 - mercredi 21 janvier 2026 : **Marie-Laure TRÉMÉLO**, Ingénieure d'études CNRS, UMR ESPACE et **Christine ZANIN**, Professeure des Universités, Université Paris-Diderot/Géographie-cités : *[La sémiologie graphique est-elle obsolète ?](cartogeoviz22-MLT-CZ.md)*
 
-▶️ Carte blanche #21 - 02 décembre 2025 : **Laurent POURINET**, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON***, Ingénieure d'études CNRS, LETG UMR 6554 et Davien BLANC, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/)
+▶️ Carte blanche #21 - 02 décembre 2025 : **Laurent POURINET**, Ingénieur d'etudes CNRS, LETG UMR 6554 ; Olivier AUBERT, Maître de Conférences associé à Nantes Université, IR LS2N UMR 6004, **Julie PIERSON**, Ingénieure d'études CNRS, LETG UMR 6554 et **Davien BLANC**, Ingénieur d'études CNRS, LETG UMR 6554, [_Intégrer de l’interactivité dans vos documents graphiques sans coder avec l'outil Cartabl_](WebinaireCARTBL.md) - [le logiciel de cartographie interactive de L'Atlas Bleu](https://atlas-bleu.cnrs.fr/presentation-cartabl/)
 *Julie PIERSON est mise en avant dans l'annonce de ce webinaire, en raison de notre souhait de faire connaître et valoriser le travail des géomaticiennes. 
 
 ▶️ Carte blanche #20. 12 novembre 2024 : **Ronan YSEBAERT**,  Univ. Paris Cité/UAR RIATE, *[Mise en place d'une plateforme de géovisualisation des locations Airbnb en Ile-de-France : enjeux et perspectives](cartogeoviz19-ysebaert.md)*
@@ -79,11 +83,11 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 ▶️ Carte blanche #4. Avril 2023 : [**DOUET Aurélie**](https://geographie-cites.cnrs.fr/membres/aurelie-douet/), IE UMR Géographie-cités, [\@CartoDouet](https://twitter.com/CartoDouet/), *[na.rm=TRUE. Requête, interactivité et gestion des données manquantes](cartogeoviz5-douet.md)*
 
-▶️ Carte blanche #3. Février 2023 [AUMOND Pierre](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [\@SoundCartograp1](https://twitter.com/SoundCartograp1), *[Cartographie du paysage sonore urbain](cartogeoviz3-aumond.md)*<br/>
+▶️ Carte blanche #3. Février 2023 [**AUMOND Pierre**](https://pagespro.univ-gustave-eiffel.fr/pierre-aumond) (CR, Univ. Gustave Eiffel-CEREMA/UMRAE), [\@SoundCartograp1](https://twitter.com/SoundCartograp1), *[Cartographie du paysage sonore urbain](cartogeoviz3-aumond.md)*<br/>
 
-▶️ Carte blanche #2. Décembre 2022 [Philippe RIVIERE](https://observablehq.com/@fil) (Visions carto, Observable), [*Faire des cartes statistiques avec* Observable Plot](cartogeoviz2-riviere.md)<br/>
+▶️ Carte blanche #2. Décembre 2022 [**Philippe RIVIERE**](https://observablehq.com/@fil) (Visions carto, Observable), [*Faire des cartes statistiques avec* Observable Plot](cartogeoviz2-riviere.md)<br/>
 
-▶️ Carte blanche #1. Novembre 2022 [Colin KEROUANTON](https://colinkerouanton.netlify.app/) (IR, PACTE), *[Effets spéciaux pour questions spatiales\_](cartogeoviz1-kerouanton.md)*
+▶️ Carte blanche #1. Novembre 2022 [**Colin KEROUANTON**](https://colinkerouanton.netlify.app/) (IR, PACTE), *[Effets spéciaux pour questions spatiales\_](cartogeoviz1-kerouanton.md)*
 
 ## Intervenir dans le webinaire Carte blanche
 
