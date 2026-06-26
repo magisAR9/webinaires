@@ -1,0 +1,36 @@
+[12:03] Anne-Christine Bronner est désormais le présentateur
+[12:09] Scheffler Camille est désormais le présentateur, désigné par Anne-Christine Bronner
+[12:22] [Anne-Christine Bronner : MODERATOR]: Bonjour à toutes et à tous
+[12:22] [Anne-Christine Bronner : MODERATOR]: Bienvenue !
+[12:23] [Anne-Christine Bronner : MODERATOR]: Quelques liens :
+
+Site de l'action de recherche AR (Carto)graphies et (Géo)visualisations : https://github.com/magisAR9
+
+Page des webinaire de l'AR  : https://magisar9.github.io/webinaires/
+
+Liste de diffusion : http://listes.ifsttar.fr/wws/info/cartogeoviz-magis
+[12:28] [Robin Cura : VIEWER]: 17-20/11 dates de Sageo 2026
+[12:54] [Anne-Christine Bronner : MODERATOR]: Aux participant·es, vous avez une petite croix pour agrandir la présentation, si nécessaire
+[13:15] [Ch-Ch : VIEWER]: Merci aux amies lyonnaises. Réunion pour ma part dans un autre lieu à 13h30. J'étais ravie de vous suivre pour ma toute première !!! Carte blanche. Bises à toutes et tous et particulièrement à Sylvain 😉 Florence
+[13:15] [Anne-Christine Bronner : MODERATOR]: Si vous souhaitez prendre la parole pour poser des questions, vous pouvez lever la main...
+[13:16] [Nicolas Lambert : VIEWER]: C'est très chouette 😄
+[13:17] [Christine PLUMEJEAUD-PERREAU : VIEWER]: C'est vrai ! 
+[13:18] [Laurent Pourinet : VIEWER]: Bravo pour votre travail très riche et merci pour votre présentation
+[13:26] [Sylvain Genevois : VIEWER]: Merci pour votre présentation et pour l'appli Géomobiles qui offre de multiples pistes d'usages. Sur la catégorisation "affectif" envisagez vous d'ajouter d'autres registres d'émotions ?  Et envisagez-vous de recouper ces données avec la fréquentation réelle des lieux ?
+[13:29] [Laurent Pourinet : VIEWER]: C'est un peu comme si vous permettiez aux enquêtés de fabriquer des cartes mentales en intégrant en amont la puissance d'analyse numérique. Votre approche et l'outil sont t vraiment très prometteurs. Je dois filer...Merci beaucoup, Laurent
+[13:32] [Nicolas Robinet : VIEWER]: Je dois filer aussi, merci, c'était très intéressant. Bonne fin de journée
+[13:32] [Robin Cura : VIEWER]: Si vous avez 2 min de rab', moi j'aurai été très interessé par votre retour sur le processus de développement/co-développement de l'outil. Jusque là, à ma connaissance, vous avez codévellopé plein de geovizus exploratoires avec des stagiaires ou autre plutôt "issus de la géomatique" ou de la géographie. Là, c'est une collab avec informaticiens (après le stage), et on a bien compris que le fonctionnement n'était pas le même (demande initiale de cahier des charges etc.). D'où ma question (enfin) : pour les prochaines applis, vous retournerez plutôt sur de la collab avec des gens issus de géo ou plutôt avec des informaticien.nes ?
+[13:35] [Robin Cura : VIEWER]: -> je parle donc de GeoMobiles v2 😊
+[13:37] [Robin Cura : VIEWER]: Merci beaucoup pour cette réponse (et les autres !)
+[13:38] [Jean-Marc Viglino : VIEWER]: Pour information, il existe un outil fourni par l'IGN qui permet de faire des signalements via un Smartphone de manière collaborative : https://espacecollaboratif.ign.fr/
+On peut créer un groupe (qui peut être privé si besoins) afin de faire contribuer des personnes sur le terrain et paramétrer un formulaire et joindre une photo.
+
+[13:38] [Jean-Marc Viglino : VIEWER]: Voir aussi ici : https://espacecollaboratif.ign.fr/plugins/
+[13:44] [Christine PLUMEJEAUD-PERREAU : VIEWER]: merci à vous ! 
+[13:44] [Christine PLUMEJEAUD-PERREAU : VIEWER]: Merci aux organisatrices aussi ! 
+[13:45] [Jean-Pierre Chery : VIEWER]: Merci pour cette présentation et ces éléments détaillés !!
+[13:46] [Robin Cura : VIEWER]: @Anne-Christine/Francoise, vous pouvez rester 2 min après ? 
+[13:47] [Christine PLUMEJEAUD-PERREAU : VIEWER]: je vous quitte
+[13:47] [Françoise BAHOKEN : VIEWER]: Merci beaucoup pour votre présentation, et pour tout ce travail, avec des données sensibles. C'était  lumineux. 😄
+[13:47] [Florian Koch : VIEWER]: Merci. Je dois vous quitter ... bonne journée
+[13:51] Anne-Christine Bronner est désormais le présentateur
