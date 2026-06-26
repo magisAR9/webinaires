@@ -13,11 +13,14 @@ De nombreuses applications mobiles proposent de laisser des traces géolocalisé
 
 Légende de l'illustration :  _GéoMobiles : un outil d’exploration, d’analyse et de géovisualisation d’expériences vécues par des étudiant·es internationaux·ales en région lyonnaise_, ANR MOBILES (ANR-20-CE38-0009)
 
+
+
+📺 [La vidéo du webinaire](https://pod.unistra.fr/video/63027-geomobiles-ce-que-les-experiences-vecues-revelent-des-lieux/)
+
+👉 [La présentation au format .pdf](https://github.com/magisAR9/webinaires/blob/main/img/MOBILES_CarteBlanche_AR9magis_250626.pdf)
+
+👉 [Le chat du webinaire](https://github.com/magisAR9/webinaires/blob/main/img/AR%2327-chat-20260625.txt)
+
 <hr/>
-
-Information de connexion :
-[Rejoindre le webinaire : bbb.unistra.fr/rooms/bro-r7m-ugj-wpp/join](https://bbb.unistra.fr/rooms/bro-r7m-ugj-wpp/join)
-Code d'accès : 002585
-
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
