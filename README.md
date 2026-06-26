@@ -11,14 +11,12 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire
 
-📺  Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, **Claire CUNTY et Camille SCHEFFLER**, Laboratoire [EVS](https://umr5600.cnrs.fr/fr/accueil/) Environnement Ville Société,  _[Ce que les expériences vécues révèlent des lieux : le potentiel analytique des géovisualisations](cartogeoviz27_CCHMCS.md)_, animation :  Anne-Christine Bronner.
+* Carte blanche #28  : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _[Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques - CartAJ](cartogeoviz28-pillot.md)_.
+
 
 ## Webinaires à venir :calendar:
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
-
-
-* Carte blanche #28  : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _[Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques - CartAJ](cartogeoviz28-pillot.md)_, animation : _à préciser_.
 
 * Carte blanche #29 - jeudi 16 septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_, animation :  _à préciser_.
 
@@ -35,6 +33,8 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
  * Carte blanche #35 - jeudi 11 mars 2027 : **Mathieu VIRY, Timothée GIRAUD**, Ingénieurs de recherche CNRS  en informatique et en Sciences de l'information géographique, UAR Riate et **Hughes PECOUT**, Ingénieur d'études CNRS en Sciences de l'information géographique, UMR Géographie-Cités : _Hello Mapsf.gui ! (titre provisoire)_, animation : à définir.
   
 ## Webinaires passés
+
+▶️  Carte blanche #27 : jeudi 25 juin 2026 : **Hélène MATHIAN**, **Claire CUNTY et Camille SCHEFFLER**, Laboratoire [EVS](https://umr5600.cnrs.fr/fr/accueil/) Environnement Ville Société,  _[Ce que les expériences vécues révèlent des lieux : le potentiel analytique des géovisualisations](cartogeoviz27_CCHMCS.md)_.
 
 ▶️  Carte blanche #26 - 26 mai 2026 : **Dalila AMIAR MEFTAH**, Architecte, géographe/géomaticienne, conseil et formation SIG open source [GEOMA-SIG](https://geoma-sig.com/), _[IA & optimisation des workflow dans QGIS](cartogeoviz26-amiar_meftah.md)_.
 
