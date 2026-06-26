@@ -18,19 +18,11 @@ qualifiables et quantifiables mais pas toujours rendues visibles sur une carte. 
 CartAJ propose d'explorer l'incertitude dans la cartographie, en construisant un score de confiance composite qui synthétise ces quatre dimensions
 
  
-
-**Ressources :** 
-
-📺 [Vidéo du Webinaire](_à venir_)
-
-[Slides](_à venir_)
-
 [CartAJ](https://msh-dijon.ube.fr/fiche-de-presentation-programme-cartaj-cartographier-les-structures-dacces-au-droit-et-a-la-justice/) – _CARTographier les structures d’Accès au droit et à la Justice_
 
 **Accès au webinaire**
 
-[Lien](https://univ-eiffel.zoom.us/j/89739148201) 
+[Rejoindre la réunion sur bbb - bbb.unistra.fr/rooms/bro-r7m-ugj-wpp/join](https://bbb.unistra.fr/rooms/bro-r7m-ugj-wpp/join). Code d'accès : 002585
 
-ID de réunion : 897 3914 8201 | Code secret : AR9m@gis
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
