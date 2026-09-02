@@ -11,7 +11,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire (12h30-13h30)
 
-* Carte blanche #29 - jeudi 16 septembre 2026 : **Armelle COUILLET**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _"le bac à sable" comme dispositif de géovisualisation de données_
+* Carte blanche #29 - jeudi 16 septembre 2026 : **[Armelle COUILLET](https://umr-idees.fr/annuaire/armelle-couillet?tab=1)**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, [AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales](https://magisar9.github.io/webinaires/cartogeoviz29-couillet.html)
 
 ## Webinaires à venir :calendar:
 
