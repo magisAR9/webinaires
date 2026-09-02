@@ -7,7 +7,7 @@ Université Bourgogne Europe (UBE), Maison des sciences de l'Homme de Dijon - UA
 
 ![Affiche_webinaire_Lucile_Pillot](img/Affiche_webinaire_Lucile_Pillot.png)
 
-**Résumé :** 
+**Résumé** 
 
 CartAJ est une application de webmapping qui cartographie l'accessibilité aux services juridiques pour les communes françaises. Développée par [GéoBFC](https://mshe.univ-fcomte.fr/geobfc) 
 à la MSH Dijon en partenariat avec le Ministère de la Justice, elle croise des données carroyées INSEE à 200 m avec la localisation des structures juridiques pour produire une typologie bivariée des communes croisant accessibilité et vulnérabilité de populations cibles choisies. L'outil s'adresse aux décideurs publics pour la priorisation des implantations, et aux chercheurs pour l'analyse des inégalités territoriales.
@@ -18,11 +18,12 @@ qualifiables et quantifiables mais pas toujours rendues visibles sur une carte. 
 CartAJ propose d'explorer l'incertitude dans la cartographie, en construisant un score de confiance composite qui synthétise ces quatre dimensions
 
  
-[CartAJ](https://msh-dijon.ube.fr/fiche-de-presentation-programme-cartaj-cartographier-les-structures-dacces-au-droit-et-a-la-justice/) – _CARTographier les structures d’Accès au droit et à la Justice_
+Lien vers la page de présentation du projet : [CartAJ](https://msh-dijon.ube.fr/fiche-de-presentation-programme-cartaj-cartographier-les-structures-dacces-au-droit-et-a-la-justice/) – _CARTographier les structures d’Accès au droit et à la Justice_
 
-**Accès au webinaire**
+**Ressources**
 
-[Rejoindre la réunion sur bbb - bbb.unistra.fr/rooms/bro-r7m-ugj-wpp/join](https://bbb.unistra.fr/rooms/bro-r7m-ugj-wpp/join). Code d'accès : 002585
+Suite à des soucis d'affichage des visuels (et sur bbb et sur teams), vous trouverez ci-après l'enregistrement audio (purgé des échanges autour des problèmes techniques). L'ensemble des fondements de la démarche y sont clairement exposés. Rendez-vous en 2027 pour une présentation de l'interface (lors de sa mise en ligne publique).
 
+🔉Lien vers l'[enregistrement audio du webinaire](https://pod.unistra.fr/video/63277-cartographier-lincertitude/)
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
