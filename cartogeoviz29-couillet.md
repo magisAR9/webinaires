@@ -4,7 +4,7 @@
 _AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales_
 
 par [Armelle COUILLET](https://umr-idees.fr/annuaire/armelle-couillet?tab=1), Ingénieure de recherches CNRS à 
-l'[UMR IDEES 6266](https://umr-idees.fr/), <br/> avec la collaboration de Julien Niat Toundji-Tchatchoua Rouen.
+l'[UMR IDEES 6266](https://umr-idees.fr/), <br/> avec la collaboration de Julien NIAT TOUNDJI-TCHATCHOUA.
 
 ![](img/affiche_webinaire_couillet.PNG)
 
@@ -20,6 +20,10 @@ perception menée auprès de 250 élèves, du niveau élémentaire à la classe 
 
 - [AR-Sandbox](https://ar-sandbox.com/fr/)
 - [slides - à venir]
+
+**Se connecter** : <br/> 
+Lien : [accès Zoom](https://univ-eiffel.zoom.us/j/87364394927) <br/> 
+Mdp : ar9magis
 
 <hr/>
 
