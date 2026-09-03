@@ -1,5 +1,5 @@
 ## Webinaire Carte Blanche #29 - 
-**Jeudi 16 septembre 2026 (12h30-13h30)** 
+**Jeudi 17 septembre 2026 (12h30-13h30)** 
 
 _AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales_
 
