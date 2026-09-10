@@ -22,8 +22,8 @@ perception menée auprès de 250 élèves, du niveau élémentaire à la classe 
 - [slides - à venir]
 
 **Se connecter** : <br/> 
-Lien : [accès Zoom](https://univ-eiffel.zoom.us/j/87364394927) <br/> 
-Mdp : ar9magis
+Lien Web : [visio.numerique.gouv.fr](https://visio.numerique.gouv.fr/isz-nqux-ilq) <br/> 
+Par téléphone : +33 9 79 94 06 78 - code : 339 292 7976#
 
 <hr/>
 
