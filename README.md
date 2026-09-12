@@ -19,7 +19,7 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
 * Carte blanche #30 - jeudi 8 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation :  _à préciser_.
 
- * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en géomatique/cartographie, UMR TREE, Pau & wikimédienne en résidence, URFIST (Paris), _Visualisation des données de Wikidata : l'exemple de Wikif_, animation : _à préciser_.
+ * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en Sciences de l'information géographique, Université de Pau, UMR TREE, wikimédienne en résidence à l'URFIST (Paris), _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _à préciser_.   
 
  * Carte blanche #32 - mercredi 2 décembre 2026 : **Géraldine GEOFFROY**, Assistante technique, Université Côte d’Azur et **Christine PLUMEJEAUD-PERREAU**, Ingénieure de recherche en géomatique, UMR Migrinter (Poitiers), [Portic Visualisation](http://explore1.portic.fr/) : _Géovisualiser pour explorer des mouvements commerciaux maritimes historiques_, animation : Françoise Bahoken.
 
