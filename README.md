@@ -27,7 +27,7 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
  * Carte blanche #34 - _jour à préciser_ février 2027 : **Edgar LEJEUNE**, Post-Doctorant en Histoire et philosophie des sciences, Chaire d'Excellence en Édition Numérique, Université de Rouen : _Computing without computer en analyse graphique (titre provisoire)_, animation : Suzanne Catteau.
 
- * Carte blanche #35 - jeudi 11 mars 2027 : **Mathieu VIRY, Timothée GIRAUD**, Ingénieurs de recherche CNRS  en informatique et en Sciences de l'information géographique, UAR Riate et **Hughes PECOUT**, Ingénieur d'études CNRS en Sciences de l'information géographique, UMR Géographie-Cités : _Hello Mapsf.gui ! (titre provisoire)_, animation : à définir.
+ * Carte blanche #35 - jeudi 11 mars 2027 : **Mathieu VIRY, Timothée GIRAUD**, Ingénieurs de recherche CNRS  en informatique et en Sciences de l'information géographique, UAR Riate et **Hughes PECOUT**, Ingénieur d'études CNRS en Sciences de l'information géographique, UMR Géographie-Cités : _Hello Mapsf.gui ! (titre provisoire)_, animation : _Etienne Côme_.
   
 ## Webinaires passés
 
