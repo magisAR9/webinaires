@@ -17,15 +17,15 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
 
-* Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation : _à préciser_.
+* Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation : _Anne-Christine Bronner_.
 
- * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en Sciences de l'information géographique, Université de Pau, UMR TREE, wikimédienne en résidence à l'URFIST (Paris), _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _à préciser_.   
+ * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en Sciences de l'information géographique, Université de Pau, UMR TREE, wikimédienne en résidence à l'URFIST (Paris), _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _Étienne Côme_.   
 
  * Carte blanche #32 - mercredi 2 décembre 2026 : **Géraldine GEOFFROY**, Assistante technique, Université Côte d’Azur et **Christine PLUMEJEAUD-PERREAU**, Ingénieure de recherche en géomatique, UMR Migrinter (Poitiers), [Portic Visualisation](http://explore1.portic.fr/) : _Géovisualiser pour explorer des mouvements commerciaux maritimes historiques_, animation : Françoise Bahoken.
 
- * Carte blanche #33 - _jour à préciser_ janvier 2027 : **Marie LEMIERE**, Doctorante en géographie à l'Université Gustave Eiffel/GéoData et Cheffe de projet Accessibilité des espaces naturels et des JOP Alpes 2030 à la Délégation ministérielle à l'accessibilité : _Titre à venir_, animation : à définir.
+ * Carte blanche #33 - _jour à préciser_ janvier 2027 : **Marie LEMIERE**, Doctorante en géographie à l'Université Gustave Eiffel/GéoData et Cheffe de projet Accessibilité des espaces naturels et des JOP Alpes 2030 à la Délégation ministérielle à l'accessibilité : _Titre à venir_, animation : Fanny Di Tursi.
 
- * Carte blanche #34 - _jour à préciser_ février 2027 : **Edgar LEJEUNE**, Post-Doctorant en Histoire et philosophie des sciences, Chaire d'Excellence en Édition Numérique, Université de Rouen : _Computing without computer en analyse graphique (titre provisoire)_, animation : à définir.
+ * Carte blanche #34 - _jour à préciser_ février 2027 : **Edgar LEJEUNE**, Post-Doctorant en Histoire et philosophie des sciences, Chaire d'Excellence en Édition Numérique, Université de Rouen : _Computing without computer en analyse graphique (titre provisoire)_, animation : Suzanne Catteau.
 
  * Carte blanche #35 - jeudi 11 mars 2027 : **Mathieu VIRY, Timothée GIRAUD**, Ingénieurs de recherche CNRS  en informatique et en Sciences de l'information géographique, UAR Riate et **Hughes PECOUT**, Ingénieur d'études CNRS en Sciences de l'information géographique, UMR Géographie-Cités : _Hello Mapsf.gui ! (titre provisoire)_, animation : à définir.
   
