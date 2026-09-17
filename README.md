@@ -17,7 +17,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
 
-* Carte blanche #30 - jeudi 8 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation :  _à préciser_.
+* Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation : _à préciser_.
 
  * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en Sciences de l'information géographique, Université de Pau, UMR TREE, wikimédienne en résidence à l'URFIST (Paris), _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _à préciser_.   
 
