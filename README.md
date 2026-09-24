@@ -11,13 +11,11 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire (12h30-13h30)
 
-* Carte blanche #29 - jeudi 17 septembre 2026 : **[Armelle COUILLET](https://umr-idees.fr/annuaire/armelle-couillet?tab=1)**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, [AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales](https://magisar9.github.io/webinaires/cartogeoviz29-couillet.html)
+* Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation : _Anne-Christine Bronner_.
 
 ## Webinaires à venir :calendar:
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
-
-* Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _Échos de la recherche dans la production de cartes en ligne. L'exemple de la conception d'un atlas et de l'alimentation du websig de REDON Agglomération_, animation : _Anne-Christine Bronner_.
 
  * Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en Sciences de l'information géographique, Université de Pau, UMR TREE, wikimédienne en résidence à l'URFIST (Paris), _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _Étienne Côme_.   
 
@@ -29,9 +27,13 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
  * Carte blanche #35 - jeudi 11 mars 2027 : **Mathieu VIRY, Timothée GIRAUD**, Ingénieurs de recherche CNRS  en informatique et en Sciences de l'information géographique, UAR Riate et **Hughes PECOUT**, Ingénieur d'études CNRS en Sciences de l'information géographique, UMR Géographie-Cités : _Hello Mapsf.gui ! (titre provisoire)_, animation : _Etienne Côme_.
 
+ *  Carte blanche #36 - _jour à préciser_ avril 2027 : **Intervenant.e**, (rattachement institutionnel) :  _Titre à venir_, animation : _à préciser_.
+
  *  Carte blanche #37 - _jour à préciser_ mai 2027 : **Louisette GARCIN**, Maîtresse de conférences en géographie au LASTIG, Université Gustave Eiffel :  _Titre à venir_, animation : _Fanny Di Tursi_.
   
 ## Webinaires passés
+
+▶️ Carte blanche #29 - jeudi 17 septembre 2026 : **[Armelle COUILLET](https://umr-idees.fr/annuaire/armelle-couillet?tab=1)**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, [AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales](https://magisar9.github.io/webinaires/cartogeoviz29-couillet.html)
 
 ▶️  Carte blanche #28 : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _[Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques - CartAJ](https://magisar9.github.io/webinaires/cartogeoviz28-pillot.html)_.
 
