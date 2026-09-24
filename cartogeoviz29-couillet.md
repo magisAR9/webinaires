@@ -1,7 +1,7 @@
 ## Webinaire Carte Blanche #29 - 
 **Jeudi 17 septembre 2026 (12h30-13h30)** 
 
-_AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales_
+_AR-GeoSim : un bac à sable à réalité augmentée au service de la médiation scientifique et de la simulation en géographie_
 
 par [Armelle COUILLET](https://umr-idees.fr/annuaire/armelle-couillet?tab=1), Ingénieure de recherches CNRS à 
 l'[UMR IDEES 6266](https://umr-idees.fr/), <br/> avec la collaboration de Julien NIAT TOUNDJI-TCHATCHOUA.
@@ -19,14 +19,9 @@ perception menée auprès de 250 élèves, du niveau élémentaire à la classe 
 **Ressources** : 
 
 - [AR-Sandbox](https://ar-sandbox.com/fr/)
-- [slides - à venir]
+- [.PDF slides](https://sharedocs.huma-num.fr/wl/?id=9U4TXejbfxcGkuiIVAIpUb506sqiKowh)
+- 📺 [Vidéo du Webinaire](https://sharedocs.huma-num.fr/wl/?id=RqLZXzpD6FbXPfzGfjR6GAZz2p9AUa7z)
 
-**Se connecter** : <br/> 
-Lien Web : [visio.numerique.gouv.fr](https://visio.numerique.gouv.fr/isz-nqux-ilq) <br/> 
-Par téléphone : +33 9 79 94 06 78 - code : 339 292 7976#
 
 <hr/>
-
-📺 [Vidéo du Webinaire - à venir]()
-
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
