@@ -24,4 +24,5 @@ perception menée auprès de 250 élèves, du niveau élémentaire à la classe 
 
 
 <hr/>
-Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
+
+Retour à l'accueil des [Webinaires Carte Blanche](https://magisar9.github.io/webinaires/)
