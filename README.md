@@ -21,7 +21,7 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
 
  * Carte blanche #32 - mercredi 2 décembre 2026 : **Géraldine GEOFFROY**, Assistante technique, Université Côte d’Azur et **Christine PLUMEJEAUD-PERREAU**, Ingénieure de recherche en géomatique, UMR Migrinter (Poitiers), [Portic Visualisation](http://explore1.portic.fr/) : _Géovisualiser pour explorer des mouvements commerciaux maritimes historiques_, animation : Françoise Bahoken.
 
- * Carte blanche #33 - mardi 19 janvier 2027 : **Marie LEMIERE**, Doctorante en géographie à l'Université Gustave Eiffel/GéoData et Cheffe de projet Accessibilité des espaces naturels et des JOP Alpes 2030 à la Délégation ministérielle à l'accessibilité : [_De la donnée à la carte : informer sur l’accessibilité des espaces naturels_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz33-lemiere.html), animation : Fanny Di Tursi.
+ * Carte blanche #33 - mardi 19 janvier 2027 : **Marie LEMIERE**, Doctorante en géographie à l'Université Gustave Eiffel/GéoData et Cheffe de projet Accessibilité des espaces naturels et des JOP Alpes 2030 à la Délégation ministérielle à l'accessibilité : [_De la donnée à la carte : informer sur l’accessibilité des espaces naturels_](https://github.com/magisAR9/webinaires/blob/main/cartogeoviz33-lemiere.md), animation : Fanny Di Tursi.
 
  * Carte blanche #34 - _jour à préciser_ février 2027 : **Edgar LEJEUNE**, Post-Doctorant en Histoire et philosophie des sciences, Chaire d'Excellence en Édition Numérique, Université de Rouen : _Computing without computer en analyse graphique (titre provisoire)_, animation : Suzanne Catteau.
 
