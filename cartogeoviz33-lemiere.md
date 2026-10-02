@@ -7,7 +7,7 @@ _De la donnée à la carte : informer sur l’accessibilité des espaces naturel
 par [Marie Lemière] Doctorante en géographie à l'Université Gustave Eiffel/GéoData et cheffe de projet des espaces naturels et des JOP Alpes 2030 
 à la Délégation ministérielle à l'accessibilité - Ministère de l'Ecologie
 
-Séjour handi au Mont Lozere (Sources du Tarn-10 © Handi Cap Evasion)
+_Séjour handi au Mont Lozere, Sources du Tarn (© Handi Cap Evasion)_
 
 ![](img/HD_PNC_Sejour_Handi.jpg)
 
