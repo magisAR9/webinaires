@@ -1,6 +1,6 @@
 ##Webinaire Carte Blanche #33 -
 
-**_jour à venir_ janvier 2026 (12h30-13h30)** </br>
+**Mardi 19 janvier 2027 (12h30-13h30)** </br>
 
 _De la donnée à la carte : informer sur l’accessibilité des espaces naturels_ </br>
 
