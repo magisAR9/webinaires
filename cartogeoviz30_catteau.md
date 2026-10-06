@@ -2,7 +2,7 @@ Webinaire Carte Blanche #30. jeudi 15 octobre 2026 (12h30-13h30)
 
 _Échos de la recherche dans la production de cartes et la géovisualisation de données au niveau d’une agglomération rurale_
 
-par Suzanne Catteau, docteure en géographie, géomaticienne, [Agence d'attractivité et de développement](https://bienvenuearedon.fr/publications/), Redon
+par Suzanne Catteau, docteure en géographie, géomaticienne, [Agence d'attractivité et de développement](https://bienvenuearedon.fr/publications/), Redon (Bretagne)
 
 ![alt text](img/imgSCatteauTerritoireEnChiffres.png)
 
