@@ -11,7 +11,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire (12h30-13h30)
 
-* Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _[Échos de la recherche dans la production de cartes et la géovisualisation de données au niveau d’une agglomération rurale](https://magisar9.github.io/webinaires/cartogeoviz30-catteau.html)_, animation : _Anne-Christine Bronner_.
+* Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _[Échos de la recherche dans la production de cartes et la géovisualisation de données au niveau d’une agglomération rurale](https://magisar9.github.io/webinaires/cartogeoviz30_catteau.html)_, animation : _Anne-Christine Bronner_.
 
 ## Webinaires à venir :calendar:
 
