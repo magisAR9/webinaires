@@ -6,7 +6,7 @@ par Suzanne Catteau, docteure en géographie, géomaticienne, [Agence d'attracti
 
 ![alt text](img/imgSCatteauTerritoireEnChiffres.png)
 
-**Résumé** : Les webinaires de l'AR9 rythment l'année en permettant de découvrir de nouveaux outils ou en soulevant des questions autour de la sémiologie graphique dans l'actualité de la recherche. Cette intervention propose d'analyser la résonance que peuvent avoir ces webinaires dans la mise à jour d'un WebSIG et la conception d'un atlas décliné sur deux supports, une version imprimée et une version en ligne, au niveau d’une agglomérat
+**Résumé** : Les webinaires de l'AR9 rythment l'année en permettant de découvrir de nouveaux outils ou en soulevant des questions autour de la sémiologie graphique dans l'actualité de la recherche. Cette intervention propose d'analyser la résonance que peuvent avoir ces webinaires dans la mise à jour d'un WebSIG et la conception d'un atlas décliné sur deux supports, une version imprimée et une version en ligne, au niveau d’une agglomération.
 Selon les supports, les logiciels et la structure des données mobilisées, les questions autour de la sémiologie graphique se redéploient sans cesse. Et au-delà des aspects techniques, les discussions avec les commanditaires et/ou utilisateurs des cartes soulignent l’importance de ces questionnements et les enjeux politiques sous-jacents.
 
 Informations de connexion
