@@ -11,13 +11,12 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire (12h30-13h30)
 
-* Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _[Échos de la recherche dans la production de cartes et la géovisualisation de données au niveau d’une agglomération rurale](https://magisar9.github.io/webinaires/cartogeoviz30_catteau.html)_, animation : _Anne-Christine Bronner_.
+* Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en Sciences de l'information géographique, Université de Pau, UMR TREE, wikimédienne en résidence à l'URFIST (Paris), _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _Étienne Côme_.
+
 
 ## Webinaires à venir :calendar:
 
 _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes géomaticiennes, qui seront dès lors prioritaires sur la programmation des webinaires._
-
-* Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en Sciences de l'information géographique, Université de Pau, UMR TREE, wikimédienne en résidence à l'URFIST (Paris), _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _Étienne Côme_.   
 
 * Carte blanche #32 - mercredi 2 décembre 2026 : **Géraldine GEOFFROY**, Assistante technique, Université Côte d’Azur et **Christine PLUMEJEAUD-PERREAU**, Ingénieure de recherche en géomatique, UMR Migrinter (Poitiers), [Portic Visualisation](http://explore1.portic.fr/) : _Géovisualiser pour explorer des mouvements commerciaux maritimes historiques_, animation : Françoise Bahoken.
 
@@ -35,7 +34,9 @@ _l'AR09 souhaite mettre en avant depuis 2025 les profils féminins et les femmes
   
 ## Webinaires passés
 
-▶️ Carte blanche #29 - jeudi 17 septembre 2026 : **[Armelle COUILLET](https://umr-idees.fr/annuaire/armelle-couillet?tab=1)**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, [AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales](https://magisar9.github.io/webinaires/cartogeoviz29-couillet.html)
+▶️ Carte blanche #30 - jeudi 15 octobre 2026 : **Suzanne CATTEAU**, Docteure en Géographie, Géomaticienne, Agence d'attractivité et de développement de Redon (Bretagne), _[Échos de la recherche dans la production de cartes et la géovisualisation de données au niveau d’une agglomération rurale](https://magisar9.github.io/webinaires/cartogeoviz30_catteau.html)_.
+
+▶️ Carte blanche #29 - jeudi 17 septembre 2026 : **[Armelle COUILLET](https://umr-idees.fr/annuaire/armelle-couillet?tab=1)**, Ingénieure de recherches CNRS, UMR IDEES, Rouen, _[AR-GeoSim : un dispositif de médiation scientifique pour sensibiliser aux transformations environnementales](https://magisar9.github.io/webinaires/cartogeoviz29-couillet.html)_.
 
 ▶️  Carte blanche #28 : 8 juillet 2026 : **Lucile PILLOT**, Ingénieure d'études, Responsable du pôle [pôle GéoBFC](https://mshe.univ-fcomte.fr/geobfc), Université Bourgogne Europe : _[Cartographier l'incertitude : l'exemple de l'accessibilité aux services juridiques - CartAJ](https://magisar9.github.io/webinaires/cartogeoviz28-pillot.html)_.
 
