@@ -12,6 +12,7 @@ Selon les supports, les logiciels et la structure des données mobilisées, les 
 **Ressources**
 
 - [Diaporama de la présentation](img/WebinaireMAGIS30_SCatteau.pdf)
+- 📺 [Capture vidéo de la présentation](https://pod.unistra.fr/video/63883-geovisualisation-de-donnees-au-niveau-dune-agglomeration-rurale/)
 
 
 Retour à l'accueil des [Webinaires Cartes Blanches](https://github.com/magisAR9/webinaires)
