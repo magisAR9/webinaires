@@ -27,8 +27,10 @@ deux bases et les expérimentations réalisées (blog hypotheses.org, tableaux d
 - [slides - à venir]
 
 **Se connecter** : <br/> 
-Lien Web : 
+Lien Web : https://univ-eiffel.zoom.us/j/85742491591
+Mot de passe : C7gGHReN
 <hr/>
+
 
 📺 [Vidéo du Webinaire - à venir]()
 
