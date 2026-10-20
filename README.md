@@ -11,7 +11,7 @@ Dans le cadre de ses activité, l'AR9 propose une série de Webinaires mensuels 
 
 ## Prochain Webinaire (12h30-13h30)
 
-* Carte blanche #31 - mardi 3 novembre 2026 : **Delphine MONTAGNE**, Ingénieure d'études en Sciences de l'information géographique, Université de Pau, UMR TREE, wikimédienne en résidence à l'URFIST (Paris), _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _Étienne Côme_.
+* Carte blanche #31 - mardi 3 novembre 2026 : par **[Delphine MONTAGNE](https://tree.univ-pau.fr/fr/organisation/membres/cv-dmontagne001-fr.html)**,  wikimédienne en résidence, [URFIST](https://urfist.chartes.psl.eu/)  de Paris (École des chartes-PSL)., _[(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_](https://magisar9.github.io/webinaires/cartogeoviz31-montagne.html), animation : _Étienne Côme_.
 
 
 ## Webinaires à venir :calendar:
