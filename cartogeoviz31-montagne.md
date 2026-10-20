@@ -3,9 +3,7 @@
 
 _(Géo)visualiser les communs : explorations autour des données de Wikidata et OpenStreetMap_
 
-par [Delphine MONTAGNE](https://umr-idees.fr/annuaire/armelle-couillet?tab=1), Ingénieure d'études en Sciences 
-de l'information géographique à l'université de Pau, UMR TREE, Wikimédienne en résidence à l'[URFIST](https://urfist.chartes.psl.eu/) 
-de Paris.
+par [Delphine MONTAGNE](https://tree.univ-pau.fr/fr/organisation/membres/cv-dmontagne001-fr.html),  wikimédienne en résidence, [URFIST](https://urfist.chartes.psl.eu/)  de Paris (École des chartes-PSL).
 
 _Carte des personnalités que l'on peut écouter sur Radio France_.  <br/>
 
